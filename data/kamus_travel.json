@@ -1,0 +1,1047 @@
+[
+  {
+    "en": "Is there a pharmacy nearby?",
+    "id": "Apakah ada apotek di dekat sini?"
+  },
+  {
+    "en": "My luggage is damaged",
+    "id": "Bagasi saya rusak"
+  },
+  {
+    "en": "Can you show me on the map?",
+    "id": "Bisa tunjukkan di peta?"
+  },
+  {
+    "en": "I'd like a non-smoking room",
+    "id": "Saya ingin kamar non-rokok"
+  },
+  {
+    "en": "Where can I catch the ferry?",
+    "id": "Di mana saya bisa naik feri?"
+  },
+  {
+    "en": "Is there a student discount?",
+    "id": "Apakah ada diskon pelajar?"
+  },
+  {
+    "en": "Can I get a receipt?",
+    "id": "Bisa minta struknya?"
+  },
+  {
+    "en": "The air conditioning isn't working",
+    "id": "AC-nya tidak berfungsi"
+  },
+  {
+    "en": "What's included in the tour?",
+    "id": "Apa saja yang termasuk dalam tur ini?"
+  },
+  {
+    "en": "I'd like to confirm my booking",
+    "id": "Saya ingin mengonfirmasi pemesanan"
+  },
+  {
+    "en": "Where is the embassy?",
+    "id": "Di mana kedutaan besar?"
+  },
+  {
+    "en": "Can I have a late check-out?",
+    "id": "Bisa check out lebih lambat?"
+  },
+  {
+    "en": "Is this the tourist bus?",
+    "id": "Apakah ini bus wisata?"
+  },
+  {
+    "en": "I need to change money",
+    "id": "Saya perlu menukar uang"
+  },
+  {
+    "en": "What vaccinations do I need?",
+    "id": "Vaksinasi apa yang saya butuhkan?"
+  },
+  {
+    "en": "The room is too noisy",
+    "id": "Kamarnya terlalu berisik"
+  },
+  {
+    "en": "Where is the lost and found?",
+    "id": "Di mana bagian barang hilang?"
+  },
+  {
+    "en": "Can I have a city map?",
+    "id": "Bisa minta peta kota?"
+  },
+  {
+    "en": "Is there a laundry service?",
+    "id": "Apakah ada layanan laundry?"
+  },
+  {
+    "en": "I'd like to rent a bicycle",
+    "id": "Saya ingin menyewa sepeda"
+  },
+  {
+    "en": "What's the departure tax?",
+    "id": "Berapa pajak keberangkatannya?"
+  },
+  {
+    "en": "Can you write the address down?",
+    "id": "Bisa tuliskan alamatnya?"
+  },
+  {
+    "en": "Is there a dress code?",
+    "id": "Apakah ada aturan berpakaian?"
+  },
+  {
+    "en": "I need to print my ticket",
+    "id": "Saya perlu mencetak tiket saya"
+  },
+  {
+    "en": "Where can I find a tour guide?",
+    "id": "Di mana saya bisa menemukan pemandu wisata?"
+  },
+  {
+    "en": "Can I have a room with a view?",
+    "id": "Bisa minta kamar dengan pemandangan?"
+  },
+  {
+    "en": "What's the local tipping custom?",
+    "id": "Bagaimana kebiasaan memberi tip di sini?"
+  },
+  {
+    "en": "I need to cancel my flight",
+    "id": "Saya perlu membatalkan penerbangan"
+  },
+  {
+    "en": "Where is the nearest hospital?",
+    "id": "Di mana rumah sakit terdekat?"
+  },
+  {
+    "en": "Can I bring this through customs?",
+    "id": "Boleh saya bawa ini melewati bea cukai?"
+  },
+  {
+    "en": "Is there a shuttle to the hotel?",
+    "id": "Apakah ada shuttle ke hotel?"
+  },
+  {
+    "en": "I'd like to change my reservation",
+    "id": "Saya ingin mengubah reservasi saya"
+  },
+  {
+    "en": "What time does the last bus leave?",
+    "id": "Jam berapa bus terakhir berangkat?"
+  },
+  {
+    "en": "Can I get a vegetarian meal?",
+    "id": "Bisa minta makanan vegetarian?"
+  },
+  {
+    "en": "Where is the metro station?",
+    "id": "Di mana stasiun metro?"
+  },
+  {
+    "en": "I need to send a package",
+    "id": "Saya perlu mengirim paket"
+  },
+  {
+    "en": "Is there a swimming pool?",
+    "id": "Apakah ada kolam renang?"
+  },
+  {
+    "en": "Can you recommend a local tour?",
+    "id": "Bisa rekomendasikan tur lokal?"
+  },
+  {
+    "en": "What's the best time to visit?",
+    "id": "Kapan waktu terbaik untuk berkunjung?"
+  },
+  {
+    "en": "I'd like to hire a translator",
+    "id": "Saya ingin menyewa penerjemah"
+  },
+  {
+    "en": "Where can I get travel insurance?",
+    "id": "Di mana saya bisa mendapatkan asuransi perjalanan?"
+  },
+  {
+    "en": "Can I have a wake-up call?",
+    "id": "Bisa minta panggilan bangun?"
+  },
+  {
+    "en": "Is there a luggage scale?",
+    "id": "Apakah ada timbangan bagasi?"
+  },
+  {
+    "en": "What's the best area to stay?",
+    "id": "Daerah mana yang terbaik untuk menginap?"
+  },
+  {
+    "en": "I need to charge my phone",
+    "id": "Saya perlu mengisi daya ponsel"
+  },
+  {
+    "en": "Where is the ticket office?",
+    "id": "Di mana loket tiket?"
+  },
+  {
+    "en": "Can I have a double room?",
+    "id": "Bisa minta kamar double?"
+  },
+  {
+    "en": "Is there a baggage cart?",
+    "id": "Apakah ada troli bagasi?"
+  },
+  {
+    "en": "What's the best local market?",
+    "id": "Pasar lokal mana yang terbaik?"
+  },
+  {
+    "en": "I'd like to join a group tour",
+    "id": "Saya ingin bergabung dengan tur grup"
+  },
+  {
+    "en": "Where can I find a taxi stand?",
+    "id": "Di mana saya bisa menemukan halte taksi?"
+  },
+  {
+    "en": "Can I have a room with WiFi?",
+    "id": "Bisa minta kamar dengan WiFi?"
+  },
+  {
+    "en": "Is there a business center?",
+    "id": "Apakah ada pusat bisnis?"
+  },
+  {
+    "en": "What's the cancellation policy?",
+    "id": "Bagaimana kebijakan pembatalannya?"
+  },
+  {
+    "en": "I need to fax some documents",
+    "id": "Saya perlu mengirim faks beberapa dokumen"
+  },
+  {
+    "en": "Where is the nearest post office?",
+    "id": "Di mana kantor pos terdekat?"
+  },
+  {
+    "en": "Can I have a room service menu?",
+    "id": "Bisa minta menu layanan kamar?"
+  },
+  {
+    "en": "Is there a gym in the hotel?",
+    "id": "Apakah ada gym di hotel?"
+  },
+  {
+    "en": "What's the best local festival?",
+    "id": "Festival lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to rent a scooter",
+    "id": "Saya ingin menyewa skuter"
+  },
+  {
+    "en": "Where can I buy a phone card?",
+    "id": "Di mana saya bisa membeli kartu telepon?"
+  },
+  {
+    "en": "Can I have a smoking room?",
+    "id": "Bisa minta kamar merokok?"
+  },
+  {
+    "en": "Is there a 24-hour convenience store?",
+    "id": "Apakah ada toko serba ada 24 jam?"
+  },
+  {
+    "en": "What's the best hiking trail?",
+    "id": "Jalur pendakian apa yang terbaik?"
+  },
+  {
+    "en": "I need to find a dentist",
+    "id": "Saya perlu menemukan dokter gigi"
+  },
+  {
+    "en": "Where is the nearest police station?",
+    "id": "Di mana kantor polisi terdekat?"
+  },
+  {
+    "en": "Can I have an aisle seat?",
+    "id": "Bisa minta kursi di lorong?"
+  },
+  {
+    "en": "Is there a children's discount?",
+    "id": "Apakah ada diskon untuk anak-anak?"
+  },
+  {
+    "en": "What's the best beach nearby?",
+    "id": "Pantai terbaik di dekat sini mana?"
+  },
+  {
+    "en": "I'd like to book two tickets",
+    "id": "Saya ingin memesan dua tiket"
+  },
+  {
+    "en": "Where can I get a visa extension?",
+    "id": "Di mana saya bisa memperpanjang visa?"
+  },
+  {
+    "en": "Can I have a vegetarian menu?",
+    "id": "Bisa minta menu vegetarian?"
+  },
+  {
+    "en": "Is there a direct flight?",
+    "id": "Apakah ada penerbangan langsung?"
+  },
+  {
+    "en": "What's the best shopping mall?",
+    "id": "Mall terbaik di sini mana?"
+  },
+  {
+    "en": "I need to find a vet",
+    "id": "Saya perlu menemukan dokter hewan"
+  },
+  {
+    "en": "Where is the night market?",
+    "id": "Di mana pasar malam?"
+  },
+  {
+    "en": "Can I have a baby cot?",
+    "id": "Bisa minta tempat tidur bayi?"
+  },
+  {
+    "en": "Is there a luggage locker?",
+    "id": "Apakah ada loker bagasi?"
+  },
+  {
+    "en": "What's the best local transport app?",
+    "id": "Aplikasi transportasi lokal terbaik apa?"
+  },
+  {
+    "en": "I'd like to report a theft",
+    "id": "Saya ingin melaporkan pencurian"
+  },
+  {
+    "en": "Where can I find an English newspaper?",
+    "id": "Di mana saya bisa menemukan koran bahasa Inggris?"
+  },
+  {
+    "en": "Can I have a connecting room?",
+    "id": "Bisa minta kamar yang terhubung?"
+  },
+  {
+    "en": "Is there a rooftop bar?",
+    "id": "Apakah ada bar di atap?"
+  },
+  {
+    "en": "What's the best day trip?",
+    "id": "Perjalanan sehari apa yang terbaik?"
+  },
+  {
+    "en": "I need to find a pharmacy open late",
+    "id": "Saya perlu menemukan apotek yang buka sampai larut"
+  },
+  {
+    "en": "Where is the main train station?",
+    "id": "Di mana stasiun kereta utama?"
+  },
+  {
+    "en": "Can I have a room with a balcony?",
+    "id": "Bisa minta kamar dengan balkon?"
+  },
+  {
+    "en": "Is there a local SIM card for tourists?",
+    "id": "Apakah ada kartu SIM lokal untuk turis?"
+  },
+  {
+    "en": "What's the best local beer?",
+    "id": "Bir lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to book a table for four",
+    "id": "Saya ingin memesan meja untuk empat orang"
+  },
+  {
+    "en": "Where can I find a public toilet?",
+    "id": "Di mana saya bisa menemukan toilet umum?"
+  },
+  {
+    "en": "Can I have a late dinner?",
+    "id": "Bisa makan malam lebih larut?"
+  },
+  {
+    "en": "Is there a left luggage facility?",
+    "id": "Apakah ada fasilitas penitipan bagasi?"
+  },
+  {
+    "en": "What's the best local coffee?",
+    "id": "Kopi lokal apa yang terbaik?"
+  },
+  {
+    "en": "I need to find a bank",
+    "id": "Saya perlu menemukan bank"
+  },
+  {
+    "en": "Where is the cultural center?",
+    "id": "Di mana pusat kebudayaan?"
+  },
+  {
+    "en": "Can I have a room with air conditioning?",
+    "id": "Bisa minta kamar dengan AC?"
+  },
+  {
+    "en": "Is there a tourist SIM card?",
+    "id": "Apakah ada kartu SIM untuk turis?"
+  },
+  {
+    "en": "What's the best local wine?",
+    "id": "Anggur lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to book a private tour",
+    "id": "Saya ingin memesan tur pribadi"
+  },
+  {
+    "en": "Where can I find a good bookstore?",
+    "id": "Di mana saya bisa menemukan toko buku yang bagus?"
+  },
+  {
+    "en": "Can I have a room with a safe?",
+    "id": "Bisa minta kamar dengan brankas?"
+  },
+  {
+    "en": "Is there a tourist information app?",
+    "id": "Apakah ada aplikasi informasi wisata?"
+  },
+  {
+    "en": "What's the best local dessert?",
+    "id": "Makanan penutup lokal apa yang terbaik?"
+  },
+  {
+    "en": "I need to find a photo shop",
+    "id": "Saya perlu menemukan toko foto"
+  },
+  {
+    "en": "Where is the botanical garden?",
+    "id": "Di mana kebun raya?"
+  },
+  {
+    "en": "Can I have a room with twin beds?",
+    "id": "Bisa minta kamar dengan dua tempat tidur single?"
+  },
+  {
+    "en": "Is there a tourist discount card?",
+    "id": "Apakah ada kartu diskon untuk turis?"
+  },
+  {
+    "en": "What's the best local fruit?",
+    "id": "Buah lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to book a transfer to the airport",
+    "id": "Saya ingin memesan transfer ke bandara"
+  },
+  {
+    "en": "Where can I find a good local guidebook?",
+    "id": "Di mana saya bisa menemukan panduan lokal yang bagus?"
+  },
+  {
+    "en": "Can I have a room with a bathtub?",
+    "id": "Bisa minta kamar dengan bak mandi?"
+  },
+  {
+    "en": "Is there a tourist police?",
+    "id": "Apakah ada polisi pariwisata?"
+  },
+  {
+    "en": "What's the best local juice?",
+    "id": "Jus lokal apa yang terbaik?"
+  },
+  {
+    "en": "I need to find a shoe repair shop",
+    "id": "Saya perlu menemukan tukang reparasi sepatu"
+  },
+  {
+    "en": "Where is the art museum?",
+    "id": "Di mana museum seni?"
+  },
+  {
+    "en": "Can I have a room with a refrigerator?",
+    "id": "Bisa minta kamar dengan kulkas?"
+  },
+  {
+    "en": "Is there a tourist map available?",
+    "id": "Apakah ada peta wisata yang tersedia?"
+  },
+  {
+    "en": "What's the best local tea?",
+    "id": "Teh lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to book a sightseeing cruise",
+    "id": "Saya ingin memesan wisata kapal pesiar"
+  },
+  {
+    "en": "Where can I find a good local artist?",
+    "id": "Di mana saya bisa menemukan seniman lokal yang bagus?"
+  },
+  {
+    "en": "Can I have a room with a kitchenette?",
+    "id": "Bisa minta kamar dengan dapur kecil?"
+  },
+  {
+    "en": "Is there a tourist assistance hotline?",
+    "id": "Apakah ada hotline bantuan wisatawan?"
+  },
+  {
+    "en": "What's the best local snack?",
+    "id": "Makanan ringan lokal apa yang terbaik?"
+  },
+  {
+    "en": "I need to find a tailor",
+    "id": "Saya perlu menemukan penjahit"
+  },
+  {
+    "en": "Where is the history museum?",
+    "id": "Di mana museum sejarah?"
+  },
+  {
+    "en": "Can I have a room with a sea view?",
+    "id": "Bisa minta kamar dengan pemandangan laut?"
+  },
+  {
+    "en": "Is there a tourist information kiosk?",
+    "id": "Apakah ada kios informasi wisata?"
+  },
+  {
+    "en": "What's the best local street food?",
+    "id": "Makanan jalanan lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to book a helicopter tour",
+    "id": "Saya ingin memesan tur helikopter"
+  },
+  {
+    "en": "Where can I find traditional crafts?",
+    "id": "Di mana saya bisa menemukan kerajinan tradisional?"
+  },
+  {
+    "en": "Can I have a room with a desk?",
+    "id": "Bisa minta kamar dengan meja?"
+  },
+  {
+    "en": "Is there a tourist discount for seniors?",
+    "id": "Apakah ada diskon wisata untuk lansia?"
+  },
+  {
+    "en": "What's the best local breakfast?",
+    "id": "Sarapan lokal apa yang terbaik?"
+  },
+  {
+    "en": "I need to find an optician",
+    "id": "Saya perlu menemukan ahli kacamata"
+  },
+  {
+    "en": "Where is the science museum?",
+    "id": "Di mana museum sains?"
+  },
+  {
+    "en": "Can I have a room with blackout curtains?",
+    "id": "Bisa minta kamar dengan tirai kedap cahaya?"
+  },
+  {
+    "en": "Is there a tourist information website?",
+    "id": "Apakah ada website informasi wisata?"
+  },
+  {
+    "en": "What's the best local seafood?",
+    "id": "Makanan laut lokal apa yang terbaik?"
+  },
+  {
+    "en": "I'd like to book a sunset cruise",
+    "id": "Saya ingin memesan wisata kapal saat matahari terbenam"
+  },
+
+  {
+    "en": "I have a reservation under the name...",
+    "id": "Saya punya reservasi atas nama..."
+  },
+  {
+    "en": "What is the check-out time?",
+    "id": "Jam berapa waktu check-out?"
+  },
+  {
+    "en": "Can I store my luggage here after I check out?",
+    "id": "Bolehkah saya menitipkan bagasi di sini setelah saya check-out?"
+  },
+  {
+    "en": "Is breakfast included?",
+    "id": "Apakah sarapan sudah termasuk?"
+  },
+  {
+    "en": "What time is breakfast served?",
+    "id": "Jam berapa sarapan disajikan?"
+  },
+  {
+    "en": "The key card for my room isn't working.",
+    "id": "Kartu kunci kamar saya tidak berfungsi."
+  },
+  {
+    "en": "There is no hot water in my room.",
+    "id": "Tidak ada air panas di kamar saya."
+  },
+  {
+    "en": "Could you please send someone to fix the...?",
+    "id": "Bisa tolong kirim seseorang untuk memperbaiki...?"
+  },
+  {
+    "en": "I would like to switch rooms.",
+    "id": "Saya ingin pindah kamar."
+  },
+  {
+    "en": "Could you arrange a taxi for me tomorrow morning?",
+    "id": "Bisakah Anda memesankan taksi untuk saya besok pagi?"
+  },
+  {
+    "en": "Do you have a power adapter I can borrow?",
+    "id": "Apakah Anda punya adaptor listrik yang bisa saya pinjam?"
+  },
+  {
+    "en": "What is the password for the Wi-Fi?",
+    "id": "Apa kata sandi untuk Wi-Fi?"
+  },
+  {
+    "en": "My flight is delayed.",
+    "id": "Penerbangan saya ditunda."
+  },
+  {
+    "en": "My flight has been cancelled.",
+    "id": "Penerbangan saya dibatalkan."
+  },
+  {
+    "en": "Where is the boarding gate for flight...?",
+    "id": "Di mana gerbang keberangkatan untuk penerbangan...?"
+  },
+  {
+    "en": "Is my flight on time?",
+    "id": "Apakah penerbangan saya tepat waktu?"
+  },
+  {
+    "en": "Where is the baggage claim?",
+    "id": "Di mana pengambilan bagasi?"
+  },
+  {
+    "en": "I have a connecting flight.",
+    "id": "Saya punya penerbangan lanjutan."
+  },
+  {
+    "en": "How much is the excess baggage fee?",
+    "id": "Berapa biaya kelebihan bagasi?"
+  },
+  {
+    "en": "My luggage is missing.",
+    "id": "Bagasi saya hilang."
+  },
+  {
+    "en": "Can I have a window seat?",
+    "id": "Bolehkah saya duduk di dekat jendela?"
+  },
+  {
+    "en": "Please take me to this address.",
+    "id": "Tolong antar saya ke alamat ini."
+  },
+  {
+    "en": "Can you use the meter, please?",
+    "id": "Tolong gunakan argo, ya."
+  },
+  {
+    "en": "How long will it take to get there?",
+    "id": "Berapa lama waktu yang dibutuhkan untuk sampai ke sana?"
+  },
+  {
+    "en": "Keep the change.",
+    "id": "Ambil saja kembaliannya."
+  },
+  {
+    "en": "Is this seat taken?",
+    "id": "Apakah kursi ini kosong?"
+  },
+  {
+    "en": "How many stops until...?",
+    "id": "Berapa pemberhentian lagi sampai di...?"
+  },
+  {
+    "en": "Could you tell me when to get off?",
+    "id": "Bisakah Anda memberitahu saya kapan harus turun?"
+  },
+  {
+    "en": "This is my stop.",
+    "id": "Ini pemberhentian saya."
+  },
+  {
+    "en": "I am allergic to nuts.",
+    "id": "Saya alergi kacang."
+  },
+  {
+    "en": "Does this dish contain dairy?",
+    "id": "Apakah hidangan ini mengandung produk susu?"
+  },
+  {
+    "en": "I am a vegan.",
+    "id": "Saya seorang vegan."
+  },
+  {
+    "en": "What is the specialty of the house?",
+    "id": "Apa hidangan andalan di sini?"
+  },
+  {
+    "en": "Could I have some more water, please?",
+    "id": "Bolehkah saya minta air lagi?"
+  },
+  {
+    "en": "I'll have the same.",
+    "id": "Saya pesan yang sama."
+  },
+  {
+    "en": "Can we pay separately?",
+    "id": "Bisakah kami bayar masing-masing?"
+  },
+  {
+    "en": "Is service included in the bill?",
+    "id": "Apakah layanan sudah termasuk dalam tagihan?"
+  },
+  {
+    "en": "This isn't what I ordered.",
+    "id": "Ini bukan yang saya pesan."
+  },
+  {
+    "en": "My food is cold.",
+    "id": "Makanan saya dingin."
+  },
+  {
+    "en": "Can you give me a better price?",
+    "id": "Bisa beri harga lebih murah?"
+  },
+  {
+    "en": "Do you ship internationally?",
+    "id": "Apakah Anda melayani pengiriman internasional?"
+  },
+  {
+    "en": "Can you wrap this as a gift?",
+    "id": "Bisakah ini dibungkus sebagai kado?"
+  },
+  {
+    "en": "I'm just Browse, thank you.",
+    "id": "Saya hanya lihat-lihat, terima kasih."
+  },
+  {
+    "en": "Do you have this in a different color?",
+    "id": "Apakah ada warna lain untuk ini?"
+  },
+  {
+    "en": "I've lost my passport.",
+    "id": "Saya kehilangan paspor."
+  },
+  {
+    "en": "I've been robbed.",
+    "id": "Saya dirampok."
+  },
+  {
+    "en": "I need to contact my embassy.",
+    "id": "Saya perlu menghubungi kedutaan saya."
+  },
+  {
+    "en": "I feel unwell.",
+    "id": "Saya merasa tidak enak badan."
+  },
+  {
+    "en": "I need medical assistance.",
+    "id": "Saya butuh bantuan medis."
+  },
+  {
+    "en": "How long does the tour last?",
+    "id": "Berapa lama turnya berlangsung?"
+  },
+  {
+    "en": "Is photography allowed here?",
+    "id": "Apakah boleh memotret di sini?"
+  },
+  {
+    "en": "Are there any entrance fees?",
+    "id": "Apakah ada biaya masuk?"
+  },
+  {
+    "en": "What should I wear for the activity?",
+    "id": "Pakaian apa yang sebaiknya saya kenakan untuk kegiatan ini?"
+  },
+  {
+    "en": "Can I take a picture with you?",
+    "id": "Bolehkah saya berfoto dengan Anda?"
+  },
+  {
+    "en": "Thank you for your hospitality.",
+    "id": "Terima kasih atas keramahan Anda."
+  },
+  {
+    "en": "I'm just learning the language.",
+    "id": "Saya baru belajar bahasa ini."
+  },
+  {
+    "en": "Your country is beautiful.",
+    "id": "Negara Anda sangat indah."
+  },
+  {
+    "en": "What's the exchange rate?",
+    "id": "Berapa nilai tukarnya?"
+  },
+  {
+    "en": "Do you accept credit cards?",
+    "id": "Apakah Anda menerima kartu kredit?"
+  },
+  {
+    "en": "Can I have some change?",
+    "id": "Bolehkah saya minta uang kembalian?"
+  },
+  {
+    "en": "Where is the nearest ATM?",
+    "id": "Di mana ATM terdekat?"
+  },
+  {
+    "en": "It's a breathtaking view.",
+    "id": "Pemandangannya sangat menakjubkan."
+  },
+  {
+    "en": "This place is picturesque.",
+    "id": "Tempat ini sangat indah."
+  },
+  {
+    "en": "The city is bustling with activity.",
+    "id": "Kota ini ramai dengan aktivitas."
+  },
+  {
+    "en": "I'm looking for something off the beaten path.",
+    "id": "Saya mencari sesuatu yang tidak biasa (jarang dikunjungi turis)."
+  },
+  {
+    "en": "This area feels very serene.",
+    "id": "Area ini terasa sangat tenang."
+  },
+  {
+    "en": "Let's go exploring.",
+    "id": "Ayo kita menjelajah."
+  },
+  {
+    "en": "I'd like to try some local cuisine.",
+    "id": "Saya ingin mencoba masakan lokal."
+  },
+  {
+    "en": "Is it safe to walk around here at night?",
+    "id": "Apakah aman berjalan-jalan di sini pada malam hari?"
+  },
+  {
+    "en": "What are the must-see attractions?",
+    "id": "Apa saja tempat wisata yang wajib dikunjungi?"
+  },
+  {
+    "en": "Could you take a photo of me/us?",
+    "id": "Bisakah Anda memotret saya/kami?"
+  },
+  {
+    "en": "The final boarding call for flight...",
+    "id": "Panggilan terakhir untuk penerbangan..."
+  },
+  {
+    "en": "Please proceed to gate...",
+    "id": "Silakan menuju ke gerbang..."
+  },
+  {
+    "en": "I have nothing to declare.",
+    "id": "Saya tidak punya apa-apa untuk dilaporkan (di bea cukai)."
+  },
+  {
+    "en": "I'm here for tourism.",
+    "id": "Saya di sini untuk berwisata."
+  },
+  {
+    "en": "How long do you plan to stay?",
+    "id": "Berapa lama Anda berencana untuk tinggal?"
+  },
+  {
+    "en": "I'm staying for two weeks.",
+    "id": "Saya akan tinggal selama dua minggu."
+  },
+  {
+    "en": "Enjoy your trip!",
+    "id": "Selamat menikmati perjalanan Anda!"
+  },
+  {
+    "en": "Do you have any vacancies?",
+    "id": "Apakah ada kamar kosong?"
+  },
+  {
+    "en": "I'd like to check in.",
+    "id": "Saya ingin check-in."
+  },
+  {
+    "en": "I'd like to check out.",
+    "id": "Saya ingin check-out."
+  },
+  {
+    "en": "Where do I pay for the ticket?",
+    "id": "Di mana saya membayar tiket?"
+  },
+  {
+    "en": "A one-way ticket to...",
+    "id": "Tiket sekali jalan ke..."
+  },
+  {
+    "en": "A round-trip ticket to...",
+    "id": "Tiket pulang-pergi ke..."
+  },
+  {
+    "en": "What platform does the train leave from?",
+    "id": "Kereta berangkat dari peron berapa?"
+  },
+  {
+    "en": "Is there a direct train to...?",
+    "id": "Apakah ada kereta langsung ke...?"
+  },
+  {
+    "en": "I need a boarding pass.",
+    "id": "Saya butuh boarding pass."
+  },
+  {
+    "en": "What is the weight limit for checked baggage?",
+    "id": "Berapa batas berat untuk bagasi terdaftar?"
+  },
+  {
+    "en": "Can I carry this on the plane?",
+    "id": "Bolehkah saya membawa ini ke dalam pesawat?"
+  },
+  {
+    "en": "Please fasten your seatbelt.",
+    "id": "Silakan kencangkan sabuk pengaman Anda."
+  },
+  {
+    "en": "We are now cruising at an altitude of...",
+    "id": "Kita sekarang terbang di ketinggian..."
+  },
+  {
+    "en": "The local time is...",
+    "id": "Waktu setempat adalah..."
+  },
+  {
+    "en": "I need to go through security.",
+    "id": "Saya harus melewati pemeriksaan keamanan."
+  },
+  {
+    "en": "Please remove all electronic devices from your bag.",
+    "id": "Harap keluarkan semua perangkat elektronik dari tas Anda."
+  },
+  {
+    "en": "Do I need to take off my shoes?",
+    "id": "Apakah saya perlu melepas sepatu?"
+  },
+  {
+    "en": "What's the purpose of your visit?",
+    "id": "Apa tujuan kunjungan Anda?"
+  },
+  {
+    "en": "I'm visiting family.",
+    "id": "Saya mengunjungi keluarga."
+  },
+  {
+    "en": "I'm here on business.",
+    "id": "Saya di sini untuk urusan bisnis."
+  },
+  {
+    "en": "How much local currency can I bring in?",
+    "id": "Berapa banyak mata uang lokal yang bisa saya bawa masuk?"
+  },
+  {
+    "en": "This is a connecting flight to...",
+    "id": "Ini adalah penerbangan lanjutan ke..."
+  },
+  {
+    "en": "Where can I find a currency exchange?",
+    "id": "Di mana saya bisa menemukan tempat penukaran mata uang?"
+  },
+  {
+    "en": "I'd like to rent a car.",
+    "id": "Saya ingin menyewa mobil."
+  },
+  {
+    "en": "Do I need an international driving permit?",
+    "id": "Apakah saya memerlukan surat izin mengemudi internasional?"
+  },
+  {
+    "en": "Please fill up the tank.",
+    "id": "Tolong isi penuh tangkinya."
+  },
+  {
+    "en": "Where's the nearest gas station?",
+    "id": "Di mana pom bensin terdekat?"
+  },
+  {
+    "en": "Can you recommend a good local restaurant?",
+    "id": "Bisakah Anda merekomendasikan restoran lokal yang bagus?"
+  },
+  {
+    "en": "I have a food allergy.",
+    "id": "Saya punya alergi makanan."
+  },
+  {
+    "en": "Is the tap water safe to drink?",
+    "id": "Apakah air keran di sini aman untuk diminum?"
+  },
+  {
+    "en": "What are the local customs I should know?",
+    "id": "Apa adat istiadat lokal yang harus saya ketahui?"
+  },
+  {
+    "en": "Is it customary to bargain here?",
+    "id": "Apakah biasa menawar di sini?"
+  },
+  {
+    "en": "Can I have an extra pillow?",
+    "id": "Bolehkah saya minta bantal tambahan?"
+  },
+  {
+    "en": "My room has not been cleaned.",
+    "id": "Kamar saya belum dibersihkan."
+  },
+  {
+    "en": "The Wi-Fi signal is very weak.",
+    "id": "Sinyal Wi-Fi sangat lemah."
+  },
+  {
+    "en": "Could you call a doctor for me?",
+    "id": "Bisakah Anda memanggilkan dokter untuk saya?"
+  },
+  {
+    "en": "I have travel insurance.",
+    "id": "Saya punya asuransi perjalanan."
+  },
+  {
+    "en": "Can you recommend some hidden gems?",
+    "id": "Bisakah Anda merekomendasikan tempat-tempat menarik yang tersembunyi?"
+  },
+  {
+    "en": "I want to experience the local culture.",
+    "id": "Saya ingin merasakan budaya lokal."
+  },
+  {
+    "en": "What's the emergency number?",
+    "id": "Berapa nomor daruratnya?"
+  },
+  {
+    "en": "I'd like to extend my stay for two more nights.",
+    "id": "Saya ingin memperpanjang masa tinggal saya selama dua malam lagi."
+  },
+  {
+    "en": "I'm checking out tomorrow.",
+    "id": "Saya akan check-out besok."
+  },
+  {
+    "en": "It's been a wonderful trip.",
+    "id": "Ini adalah perjalanan yang luar biasa."
+  }
+]

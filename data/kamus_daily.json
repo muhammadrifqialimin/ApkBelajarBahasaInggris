@@ -1,0 +1,1535 @@
+[
+  {
+    "en": "Hello",
+    "id": "Halo"
+  },
+  {
+    "en": "Good morning",
+    "id": "Selamat pagi"
+  },
+  {
+    "en": "Good afternoon",
+    "id": "Selamat siang"
+  },
+  {
+    "en": "Good evening",
+    "id": "Selamat sore"
+  },
+  {
+    "en": "Good night",
+    "id": "Selamat malam"
+  },
+  {
+    "en": "How are you?",
+    "id": "Apa kabar?"
+  },
+  {
+    "en": "I'm fine, thank you",
+    "id": "Saya baik, terima kasih"
+  },
+  {
+    "en": "And you?",
+    "id": "Dan Anda?"
+  },
+  {
+    "en": "What is your name?",
+    "id": "Siapa nama Anda?"
+  },
+  {
+    "en": "My name is...",
+    "id": "Nama saya..."
+  },
+  {
+    "en": "Nice to meet you",
+    "id": "Senang bertemu dengan Anda"
+  },
+  {
+    "en": "Where are you from?",
+    "id": "Anda berasal dari mana?"
+  },
+  {
+    "en": "I am from...",
+    "id": "Saya dari..."
+  },
+  {
+    "en": "How old are you?",
+    "id": "Berapa umur Anda?"
+  },
+  {
+    "en": "I am ... years old",
+    "id": "Saya berumur ... tahun"
+  },
+  {
+    "en": "What do you do?",
+    "id": "Apa pekerjaan Anda?"
+  },
+  {
+    "en": "I am a student",
+    "id": "Saya seorang pelajar"
+  },
+  {
+    "en": "Do you speak English?",
+    "id": "Apakah Anda berbicara bahasa Inggris?"
+  },
+  {
+    "en": "Yes, a little",
+    "id": "Ya, sedikit"
+  },
+  {
+    "en": "I don't understand",
+    "id": "Saya tidak mengerti"
+  },
+  {
+    "en": "Could you repeat that?",
+    "id": "Bisakah Anda mengulanginya?"
+  },
+  {
+    "en": "Please speak slowly",
+    "id": "Tolong bicara pelan-pelan"
+  },
+  {
+    "en": "Thank you",
+    "id": "Terima kasih"
+  },
+  {
+    "en": "You're welcome",
+    "id": "Sama-sama"
+  },
+  {
+    "en": "Excuse me",
+    "id": "Permisi"
+  },
+  {
+    "en": "I'm sorry",
+    "id": "Maaf"
+  },
+  {
+    "en": "No problem",
+    "id": "Tidak masalah"
+  },
+  {
+    "en": "Goodbye",
+    "id": "Selamat tinggal"
+  },
+  {
+    "en": "See you later",
+    "id": "Sampai jumpa lagi"
+  },
+  {
+    "en": "Take care",
+    "id": "Jaga diri"
+  },
+  {
+    "en": "What time is it?",
+    "id": "Jam berapa sekarang?"
+  },
+  {
+    "en": "Today",
+    "id": "Hari ini"
+  },
+  {
+    "en": "Yesterday",
+    "id": "Kemarin"
+  },
+  {
+    "en": "Tomorrow",
+    "id": "Besok"
+  },
+  {
+    "en": "Week",
+    "id": "Minggu"
+  },
+  {
+    "en": "Month",
+    "id": "Bulan"
+  },
+  {
+    "en": "Year",
+    "id": "Tahun"
+  },
+  {
+    "en": "What is this?",
+    "id": "Apa ini?"
+  },
+  {
+    "en": "How much is this?",
+    "id": "Berapa harganya ini?"
+  },
+  {
+    "en": "Where is the toilet?",
+    "id": "Di mana toiletnya?"
+  },
+  {
+    "en": "I'm hungry",
+    "id": "Saya lapar"
+  },
+  {
+    "en": "I'm thirsty",
+    "id": "Saya haus"
+  },
+  {
+    "en": "Let's eat",
+    "id": "Ayo makan"
+  },
+  {
+    "en": "The food is delicious",
+    "id": "Makanannya enak"
+  },
+  {
+    "en": "What is your hobby?",
+    "id": "Apa hobi Anda?"
+  },
+  {
+    "en": "The weather is hot",
+    "id": "Cuacanya panas"
+  },
+  {
+    "en": "It's cold today",
+    "id": "Hari ini dingin"
+  },
+  {
+    "en": "I'm tired",
+    "id": "Saya lelah"
+  },
+  {
+    "en": "I want to sleep",
+    "id": "Saya ingin tidur"
+  },
+  {
+    "en": "Happy birthday",
+    "id": "Selamat ulang tahun"
+  },
+  {
+    "en": "Congratulations",
+    "id": "Selamat"
+  },
+  {
+    "en": "I miss you",
+    "id": "Saya rindu padamu"
+  },
+  {
+    "en": "I love you",
+    "id": "Aku mencintaimu"
+  },
+  {
+    "en": "Be careful",
+    "id": "Hati-hati"
+  },
+  {
+    "en": "Get well soon",
+    "id": "Semoga cepat sembuh"
+  },
+  {
+    "en": "Help!",
+    "id": "Tolong!"
+  },
+  {
+    "en": "I need a doctor",
+    "id": "Saya butuh dokter"
+  },
+  {
+    "en": "Can you help me?",
+    "id": "Bisakah Anda membantu saya?"
+  },
+  {
+    "en": "Of course",
+    "id": "Tentu saja"
+  },
+  {
+    "en": "I don't know",
+    "id": "Saya tidak tahu"
+  },
+  {
+    "en": "Maybe",
+    "id": "Mungkin"
+  },
+  {
+    "en": "Never mind",
+    "id": "Lupakan saja"
+  },
+  {
+    "en": "That's great",
+    "id": "Itu hebat"
+  },
+  {
+    "en": "I agree",
+    "id": "Saya setuju"
+  },
+  {
+    "en": "I disagree",
+    "id": "Saya tidak setuju"
+  },
+  {
+    "en": "I'm busy",
+    "id": "Saya sibuk"
+  },
+  {
+    "en": "Wait a minute",
+    "id": "Tunggu sebentar"
+  },
+  {
+    "en": "Hurry up",
+    "id": "Cepatlah"
+  },
+  {
+    "en": "Take your time",
+    "id": "Santai saja"
+  },
+  {
+    "en": "I forgot",
+    "id": "Saya lupa"
+  },
+  {
+    "en": "I remember",
+    "id": "Saya ingat"
+  },
+  {
+    "en": "That's interesting",
+    "id": "Itu menarik"
+  },
+  {
+    "en": "I'm bored",
+    "id": "Saya bosan"
+  },
+  {
+    "en": "Don't worry",
+    "id": "Jangan khawatir"
+  },
+  {
+    "en": "Calm down",
+    "id": "Tenang"
+  },
+  {
+    "en": "Come here",
+    "id": "Kemarilah"
+  },
+  {
+    "en": "Let's go",
+    "id": "Ayo pergi"
+  },
+  {
+    "en": "Wake up",
+    "id": "Bangun"
+  },
+  {
+    "en": "Breakfast",
+    "id": "Sarapan"
+  },
+  {
+    "en": "Lunch",
+    "id": "Makan siang"
+  },
+  {
+    "en": "Dinner",
+    "id": "Makan malam"
+  },
+  {
+    "en": "Groceries",
+    "id": "Bahan makanan"
+  },
+  {
+    "en": "Cooking",
+    "id": "Memasak"
+  },
+  {
+    "en": "Housework",
+    "id": "Pekerjaan rumah"
+  },
+  {
+    "en": "Commute",
+    "id": "Perjalanan ke tempat kerja"
+  },
+  {
+    "en": "Meeting",
+    "id": "Rapat"
+  },
+  {
+    "en": "Email",
+    "id": "Surel"
+  },
+  {
+    "en": "Appointment",
+    "id": "Janji temu"
+  },
+  {
+    "en": "Deadline",
+    "id": "Tenggat waktu"
+  },
+  {
+    "en": "Weekend",
+    "id": "Akhir pekan"
+  },
+  {
+    "en": "Holiday",
+    "id": "Hari libur"
+  },
+  {
+    "en": "Vacation",
+    "id": "Liburan"
+  },
+  {
+    "en": "Traffic jam",
+    "id": "Macet"
+  },
+  {
+    "en": "Public transportation",
+    "id": "Transportasi umum"
+  },
+  {
+    "en": "Daily routine",
+    "id": "Rutinitas harian"
+  },
+  {
+    "en": "To-do list",
+    "id": "Daftar tugas"
+  },
+  {
+    "en": "Shopping",
+    "id": "Berbelanja"
+  },
+  {
+    "en": "Receipt",
+    "id": "Struk"
+  },
+  {
+    "en": "Discount",
+    "id": "Diskon"
+  },
+  {
+    "en": "Cash",
+    "id": "Uang tunai"
+  },
+  {
+    "en": "Credit card",
+    "id": "Kartu kredit"
+  },
+  {
+    "en": "ATM (Automated Teller Machine)",
+    "id": "ATM (Anjungan Tunai Mandiri)"
+  },
+  {
+    "en": "Password",
+    "id": "Kata sandi"
+  },
+  {
+    "en": "The internet is slow",
+    "id": "Internetnya lambat"
+  },
+  {
+    "en": "I need to charge my phone",
+    "id": "Saya perlu mengisi daya ponsel"
+  },
+  {
+    "en": "The battery is low",
+    "id": "Baterainya lemah"
+  },
+  {
+    "en": "What's for dinner?",
+    "id": "Makan malam apa?"
+  },
+  {
+    "en": "I'm not feeling well",
+    "id": "Saya merasa tidak enak badan"
+  },
+  {
+    "en": "I have a headache",
+    "id": "Saya sakit kepala"
+  },
+  {
+    "en": "Can I have the bill, please?",
+    "id": "Boleh minta tagihannya?"
+  },
+  {
+    "en": "It's on me",
+    "id": "Saya yang traktir"
+  },
+  {
+    "en": "Let's split the bill",
+    "id": "Kita bayar masing-masing"
+  },
+  {
+    "en": "What do you recommend?",
+    "id": "Apa yang Anda rekomendasikan?"
+  },
+  {
+    "en": "Are you free this evening?",
+    "id": "Apakah Anda ada waktu malam ini?"
+  },
+  {
+    "en": "What are you up to?",
+    "id": "Lagi ngapain?"
+  },
+  {
+    "en": "Not much",
+    "id": "Tidak banyak"
+  },
+  {
+    "en": "I'm just chilling",
+    "id": "Saya sedang santai saja"
+  },
+  {
+    "en": "Can I ask you a favor?",
+    "id": "Bolehkah saya minta tolong?"
+  },
+  {
+    "en": "I appreciate it",
+    "id": "Saya menghargainya"
+  },
+  {
+    "en": "That's very kind of you",
+    "id": "Anda baik sekali"
+  },
+  {
+    "en": "It's a piece of cake",
+    "id": "Itu mudah sekali"
+  },
+  {
+    "en": "Hang in there",
+    "id": "Bertahanlah"
+  },
+  {
+    "en": "I'll be right back",
+    "id": "Saya akan segera kembali"
+  },
+  {
+    "en": "I'm on my way",
+    "id": "Saya sedang dalam perjalanan"
+  },
+  {
+    "en": "What's the catch?",
+    "id": "Apa udang di balik batu?"
+  },
+  {
+    "en": "I'm broke",
+    "id": "Saya bokek"
+  },
+  {
+    "en": "It's not my cup of tea",
+    "id": "Itu bukan selera saya"
+  },
+  {
+    "en": "Let's play it by ear",
+    "id": "Kita lihat saja nanti"
+  },
+  {
+    "en": "I'm all ears",
+    "id": "Saya mendengarkan"
+  },
+  {
+    "en": "I'm exhausted",
+    "id": "Saya sangat lelah"
+  },
+  {
+    "en": "It's freezing",
+    "id": "Dingin sekali"
+  },
+  {
+    "en": "It's boiling",
+    "id": "Panas sekali"
+  },
+  {
+    "en": "Could you give me a hand?",
+    "id": "Bisa bantu saya?"
+  },
+  {
+    "en": "I'm starving",
+    "id": "Saya kelaparan"
+  },
+  {
+    "en": "I'm stuffed",
+    "id": "Saya sangat kenyang"
+  },
+  {
+    "en": "It costs a fortune",
+    "id": "Harganya mahal sekali"
+  },
+  {
+    "en": "That's a rip-off",
+    "id": "Itu kemahalan"
+  },
+  {
+    "en": "I'll take it",
+    "id": "Saya ambil yang ini"
+  },
+  {
+    "en": "Window shopping",
+    "id": "Cuci mata (melihat-lihat saja)"
+  },
+  {
+    "en": "I'm just Browse",
+    "id": "Saya hanya lihat-lihat"
+  },
+  {
+    "en": "Do you have this in a smaller size?",
+    "id": "Apakah ada ukuran yang lebih kecil?"
+  },
+  {
+    "en": "Do you have this in a larger size?",
+    "id": "Apakah ada ukuran yang lebih besar?"
+  },
+  {
+    "en": "Can I try this on?",
+    "id": "Bolehkah saya mencobanya?"
+  },
+  {
+    "en": "The fitting room is over there",
+    "id": "Kamar pas ada di sebelah sana"
+  },
+  {
+    "en": "It fits perfectly",
+    "id": "Pas sekali"
+  },
+  {
+    "en": "It's too tight",
+    "id": "Terlalu ketat"
+  },
+  {
+    "en": "It's too loose",
+    "id": "Terlalu longgar"
+  },
+  {
+    "en": "I'd like to make a reservation",
+    "id": "Saya ingin membuat reservasi"
+  },
+  {
+    "en": "A table for two, please",
+    "id": "Meja untuk dua orang"
+  },
+  {
+    "en": "Check, please",
+    "id": "Minta bon"
+  },
+  {
+    "en": "Leftovers",
+    "id": "Sisa makanan"
+  },
+  {
+    "en": "Can I get this to go?",
+    "id": "Bisa dibungkus?"
+  },
+  {
+    "en": "I'm running late",
+    "id": "Saya akan terlambat"
+  },
+  {
+    "en": "My alarm didn't go off",
+    "id": "Alarm saya tidak berbunyi"
+  },
+  {
+    "en": "I overslept",
+    "id": "Saya ketiduran"
+  },
+  {
+    "en": "Let's reschedule",
+    "id": "Ayo kita atur ulang jadwalnya"
+  },
+  {
+    "en": "That sounds like a plan",
+    "id": "Terdengar bagus"
+  },
+  {
+    "en": "I'm looking forward to it",
+    "id": "Saya tidak sabar menantikannya"
+  },
+  {
+    "en": "It's been a long day",
+    "id": "Hari ini sungguh melelahkan"
+  },
+  {
+    "en": "What a relief",
+    "id": "Lega sekali"
+  },
+  {
+    "en": "You made my day",
+    "id": "Anda membuat hari saya indah"
+  },
+  {
+    "en": "It's on the tip of my tongue",
+    "id": "Sudah di ujung lidah"
+  },
+  {
+    "en": "I'll keep that in mind",
+    "id": "Akan saya ingat"
+  },
+  {
+    "en": "So far, so good",
+    "id": "Sejauh ini, baik-baik saja"
+  },
+  {
+    "en": "Long time no see",
+    "id": "Lama tidak bertemu"
+  },
+  {
+    "en": "What have you been up to?",
+    "id": "Sibuk apa saja selama ini?"
+  },
+  {
+    "en": "Can't complain",
+    "id": "Baik-baik saja"
+  },
+  {
+    "en": "Same old, same old",
+    "id": "Biasa saja, tidak ada yang baru"
+  },
+  {
+    "en": "I'm beat",
+    "id": "Saya sangat lelah"
+  },
+  {
+    "en": "I'm swamped",
+    "id": "Saya sangat sibuk"
+  },
+  {
+    "en": "Let's catch up soon",
+    "id": "Ayo kita ngobrol lagi nanti"
+  },
+  {
+    "en": "That's lit",
+    "id": "Itu keren sekali"
+  },
+  {
+    "en": "No cap",
+    "id": "Serius / Tidak bohong"
+  },
+  {
+    "en": "I feel you",
+    "id": "Saya mengerti perasaanmu"
+  },
+  {
+    "en": "My bad",
+    "id": "Salah saya"
+  },
+  {
+    "en": "That's a given",
+    "id": "Itu sudah pasti"
+  },
+  {
+    "en": "Don't sweat it",
+    "id": "Jangan khawatirkan itu"
+  },
+  {
+    "en": "I'm game",
+    "id": "Saya ikut"
+  },
+  {
+    "en": "It's a no-brainer",
+    "id": "Itu pilihan yang jelas"
+  },
+  {
+    "en": "I'm on the fence",
+    "id": "Saya masih ragu-ragu"
+  },
+  {
+    "en": "Let's agree to disagree",
+    "id": "Mari kita setuju untuk tidak setuju"
+  },
+  {
+    "en": "You rock!",
+    "id": "Kamu hebat!"
+  },
+  {
+    "en": "I'm rooting for you",
+    "id": "Saya mendukungmu"
+  },
+  {
+    "en": "That's debatable",
+    "id": "Itu bisa diperdebatkan"
+  },
+  {
+    "en": "Read between the lines",
+    "id": "Membaca yang tersirat"
+  },
+  {
+    "en": "The ball is in your court",
+    "id": "Keputusan ada di tanganmu"
+  },
+  {
+    "en": "Bite the bullet",
+    "id": "Menghadapi kesulitan dengan berani"
+  },
+  {
+    "en": "Break a leg",
+    "id": "Semoga berhasil (di panggung)"
+  },
+  {
+    "en": "Call it a day",
+    "id": "Menyudahi pekerjaan hari ini"
+  },
+  {
+    "en": "Cut somebody some slack",
+    "id": "Memberi kelonggaran pada seseorang"
+  },
+  {
+    "en": "Cutting corners",
+    "id": "Mengambil jalan pintas (biasanya kualitasnya buruk)"
+  },
+  {
+    "en": "Go back to the drawing board",
+    "id": "Mengulang dari awal"
+  },
+  {
+    "en": "Hit the sack",
+    "id": "Pergi tidur"
+  },
+  {
+    "en": "It's not rocket science",
+    "id": "Itu tidak sulit"
+  },
+  {
+    "en": "Make a long story short",
+    "id": "Singkatnya"
+  },
+  {
+    "en": "Miss the boat",
+    "id": "Kehilangan kesempatan"
+  },
+  {
+    "en": "Pull yourself together",
+    "id": "Kuasai dirimu"
+  },
+  {
+    "en": "Speak of the devil",
+    "id": "Panjang umur (orang yang dibicarakan muncul)"
+  },
+  {
+    "en": "Under the weather",
+    "id": "Merasa tidak enak badan"
+  },
+  {
+    "en": "You can say that again",
+    "id": "Saya setuju sekali denganmu"
+  },
+  {
+    "en": "A blessing in disguise",
+    "id": "Hikmah tersembunyi"
+  },
+  {
+    "en": "Beat around the bush",
+    "id": "Bertele-tele"
+  },
+  {
+    "en": "It takes two to tango",
+    "id": "Dibutuhkan dua orang untuk suatu hal"
+  },
+  {
+    "en": "Kill two birds with one stone",
+    "id": "Mengerjakan dua hal sekaligus"
+  },
+  {
+    "en": "Let the cat out of the bag",
+    "id": "Membocorkan rahasia"
+  },
+  {
+    "en": "Once in a blue moon",
+    "id": "Sangat jarang"
+  },
+  {
+    "en": "Spill the beans",
+    "id": "Membongkar rahasia"
+  },
+  {
+    "en": "Take it with a grain of salt",
+    "id": "Jangan dianggap terlalu serius"
+  },
+  {
+    "en": "The elephant in the room",
+    "id": "Masalah besar yang jelas tapi dihindari"
+  },
+  {
+    "en": "A penny for your thoughts",
+    "id": "Apa yang sedang kamu pikirkan?"
+  },
+  {
+    "en": "Add insult to injury",
+    "id": "Sudah jatuh tertimpa tangga"
+  },
+  {
+    "en": "An arm and a leg",
+    "id": "Sangat mahal"
+  },
+  {
+    "en": "Back to square one",
+    "id": "Kembali ke titik awal"
+  },
+  {
+    "en": "Barking up the wrong tree",
+    "id": "Salah sasaran"
+  },
+  {
+    "en": "Birds of a feather flock together",
+    "id": "Orang yang mirip akan berkumpul bersama"
+  },
+  {
+    "en": "Bite off more than you can chew",
+    "id": "Mengambil tanggung jawab lebih dari yang mampu"
+  },
+  {
+    "en": "By the skin of your teeth",
+    "id": "Hampir saja (nyaris)"
+  },
+  {
+    "en": "Comparing apples to oranges",
+    "id": "Membandingkan dua hal yang berbeda"
+  },
+  {
+    "en": "Don't count your chickens before they hatch",
+    "id": "Jangan senang dulu sebelum berhasil"
+  },
+  {
+    "en": "Don't give up your day job",
+    "id": "Kamu tidak begitu bagus dalam hal itu"
+  },
+  {
+    "en": "Don't put all your eggs in one basket",
+    "id": "Jangan menaruh semua harapan pada satu hal"
+  },
+  {
+    "en": "Every cloud has a silver lining",
+    "id": "Selalu ada hikmah di setiap kejadian"
+  },
+  {
+    "en": "Feel a bit under the weather",
+    "id": "Merasa sedikit tidak sehat"
+  },
+  {
+    "en": "Give someone the benefit of the doubt",
+    "id": "Memberi kepercayaan pada seseorang"
+  },
+  {
+    "en": "Hear it on the grapevine",
+    "id": "Mendengar dari desas-desus"
+  },
+  {
+    "en": "Heard it straight from the horse's mouth",
+    "id": "Mendengar langsung dari sumbernya"
+  },
+  {
+    "en": "He's a chip off the old block",
+    "id": "Dia mirip sekali dengan ayahnya"
+  },
+  {
+    "en": "Hit the nail on the head",
+    "id": "Tepat sasaran"
+  },
+  {
+    "en": "Ignorance is bliss",
+    "id": "Ketidaktahuan adalah kebahagiaan"
+  },
+  {
+    "en": "In the heat of the moment",
+    "id": "Dalam suasana panas (emosi)"
+  },
+  {
+    "en": "Jump on the bandwagon",
+    "id": "Ikut-ikutan tren"
+  },
+  {
+    "en": "Keep something at bay",
+    "id": "Menjaga sesuatu agar tidak mendekat"
+  },
+  {
+    "en": "Last but not least",
+    "id": "Yang terakhir tapi tidak kalah penting"
+  },
+  {
+    "en": "Method to my madness",
+    "id": "Ada metode di balik kegilaan saya"
+  },
+  {
+    "en": "Not playing with a full deck",
+    "id": "Sedikit aneh atau gila"
+  },
+  {
+    "en": "Off the top of my head",
+    "id": "Sepintas lalu"
+  },
+  {
+    "en": "On the same page",
+    "id": "Sepemahaman"
+  },
+  {
+    "en": "Out of the blue",
+    "id": "Tiba-tiba"
+  },
+  {
+    "en": "Put a sock in it",
+    "id": "Diamlah"
+  },
+  {
+    "en": "Rain on someone's parade",
+    "id": "Merusak kebahagiaan seseorang"
+  },
+  {
+    "en": "Ring a bell",
+    "id": "Terdengar familiar"
+  },
+  {
+    "en": "Saving for a rainy day",
+    "id": "Menabung untuk masa sulit"
+  },
+  {
+    "en": "Slow and steady wins the race",
+    "id": "Perlahan tapi pasti akan menang"
+  },
+  {
+    "en": "Start from scratch",
+    "id": "Mulai dari nol"
+  },
+  {
+    "en": "The calm before the storm",
+    "id": "Ketenangan sebelum badai"
+  },
+  {
+    "en": "The early bird gets the worm",
+    "id": "Siapa cepat dia dapat"
+  },
+  {
+    "en": "The last straw",
+    "id": "Batas kesabaran"
+  },
+  {
+    "en": "There are other fish in the sea",
+    "id": "Masih banyak pilihan lain"
+  },
+  {
+    "en": "There's no such thing as a free lunch",
+    "id": "Tidak ada yang gratis di dunia ini"
+  },
+  {
+    "en": "Throw caution to the wind",
+    "id": "Mengabaikan risiko"
+  },
+  {
+    "en": "To get bent out of shape",
+    "id": "Menjadi marah"
+  },
+  {
+    "en": "To make a mountain out of a molehill",
+    "id": "Membesar-besarkan masalah kecil"
+  },
+  {
+    "en": "Up in the air",
+    "id": "Masih belum pasti"
+  },
+  {
+    "en": "We'll cross that bridge when we get to it",
+    "id": "Kita akan pikirkan itu nanti"
+  },
+  {
+    "en": "Whole nine yards",
+    "id": "Semuanya, seluruhnya"
+  },
+  {
+    "en": "You can't have your cake and eat it too",
+    "id": "Kamu tidak bisa memiliki segalanya"
+  },
+  {
+    "en": "You can't judge a book by its cover",
+    "id": "Jangan menilai dari penampilan luar"
+  },
+  {
+    "en": "A snowball effect",
+    "id": "Efek bola salju (masalah kecil jadi besar)"
+  },
+  {
+    "en": "Mundane",
+    "id": "Biasa saja / membosankan"
+  },
+  {
+    "en": "Ephemeral",
+    "id": "Sesaat / fana"
+  },
+  {
+    "en": "Serendipity",
+    "id": "Kebetulan yang menyenangkan"
+  },
+  {
+    "en": "Ubiquitous",
+    "id": "Ada di mana-mana"
+  },
+  {
+    "en": "Meticulous",
+    "id": "Sangat teliti"
+  },
+  {
+    "en": "To procrastinate",
+    "id": "Menunda-nunda pekerjaan"
+  },
+  {
+    "en": "A pre-loved item",
+    "id": "Barang bekas"
+  },
+  {
+    "en": "To binge-watch",
+    "id": "Menonton serial TV secara maraton"
+  },
+  {
+    "en": "Earworm",
+    "id": "Lagu yang terngiang-ngiang"
+  },
+  {
+    "en": "Staycation",
+    "id": "Liburan di rumah atau di kota sendiri"
+  },
+  {
+    "en": "Doppelgänger",
+    "id": "Orang yang sangat mirip"
+  },
+  {
+    "en": "Déjà vu",
+    "id": "Merasa pernah mengalami sesuatu sebelumnya"
+  },
+  {
+    "en": "Pet peeve",
+    "id": "Sesuatu yang kecil tapi sangat mengganggu"
+  },
+  {
+    "en": "To ghost someone",
+    "id": "Menghilang tiba-tiba dari kehidupan seseorang"
+  },
+  {
+    "en": "FOMO (Fear Of Missing Out)",
+    "id": "Takut ketinggalan tren atau berita"
+  },
+  {
+    "en": "JOMO (Joy Of Missing Out)",
+    "id": "Senang karena tidak ikut serta"
+  },
+  {
+    "en": "Life hack",
+    "id": "Trik untuk mempermudah hidup"
+  },
+  {
+    "en": "Side hustle",
+    "id": "Pekerjaan sampingan"
+  },
+  {
+    "en": "Throw shade",
+    "id": "Menyindir atau mengkritik secara tidak langsung"
+  },
+  {
+    "en": "It's not my forte",
+    "id": "Itu bukan keahlian saya"
+  },
+
+  {
+    "en": "To be on cloud nine",
+    "id": "Sangat bahagia sekali"
+  },
+  {
+    "en": "To feel blue",
+    "id": "Merasa sedih"
+  },
+  {
+    "en": "To see red",
+    "id": "Menjadi sangat marah"
+  },
+  {
+    "en": "To have a green thumb",
+    "id": "Pintar berkebun"
+  },
+  {
+    "en": "Once in a blue moon",
+    "id": "Sangat jarang terjadi"
+  },
+  {
+    "en": "A white lie",
+    "id": "Bohong demi kebaikan"
+  },
+  {
+    "en": "Out of the blue",
+    "id": "Tiba-tiba"
+  },
+  {
+    "en": "To catch red-handed",
+    "id": "Tertangkap basah"
+  },
+  {
+    "en": "The grass is always greener on the other side",
+    "id": "Rumput tetangga selalu lebih hijau"
+  },
+  {
+    "en": "To give someone the green light",
+    "id": "Memberi izin untuk memulai"
+  },
+  {
+    "en": "To be tickled pink",
+    "id": "Sangat senang atau terhibur"
+  },
+  {
+    "en": "Black sheep of the family",
+    "id": "Kambing hitam keluarga (anggota yang dianggap berbeda/buruk)"
+  },
+  {
+    "en": "To have the blues",
+    "id": "Merasa murung atau sedih"
+  },
+  {
+    "en": "Golden opportunity",
+    "id": "Kesempatan emas"
+  },
+  {
+    "en": "To show one's true colors",
+    "id": "Menunjukkan sifat asli seseorang"
+  },
+  {
+    "en": "Let's grab a bite",
+    "id": "Ayo kita cari makan"
+  },
+  {
+    "en": "I'm starving",
+    "id": "Saya kelaparan"
+  },
+  {
+    "en": "This is on me",
+    "id": "Saya yang traktir"
+  },
+  {
+    "en": "Let's split the bill",
+    "id": "Kita bayar masing-masing saja"
+  },
+  {
+    "en": "What do you do for fun?",
+    "id": "Apa yang kamu lakukan untuk bersenang-senang?"
+  },
+  {
+    "en": "I'm into...",
+    "id": "Saya suka..."
+  },
+  {
+    "en": "That's not my thing",
+    "id": "Itu bukan kesukaan saya"
+  },
+  {
+    "en": "I'm a homebody",
+    "id": "Saya anak rumahan"
+  },
+  {
+    "en": "I'm a night owl",
+    "id": "Saya suka begadang"
+  },
+  {
+    "en": "I'm an early bird",
+    "id": "Saya suka bangun pagi"
+  },
+  {
+    "en": "Let's hang out sometime",
+    "id": "Ayo kita kumpul kapan-kapan"
+  },
+  {
+    "en": "Are you on social media?",
+    "id": "Apakah kamu main media sosial?"
+  },
+  {
+    "en": "Let's keep in touch",
+    "id": "Tetap jaga komunikasi ya"
+  },
+  {
+    "en": "It rings a bell",
+    "id": "Terdengar tidak asing"
+  },
+  {
+    "en": "I can't place it",
+    "id": "Saya tidak bisa mengingatnya dengan pasti"
+  },
+  {
+    "en": "It's a small world",
+    "id": "Dunia ini sempit ya"
+  },
+  {
+    "en": "What a coincidence",
+    "id": "Kebetulan sekali"
+  },
+  {
+    "en": "Fingers crossed",
+    "id": "Semoga saja berhasil"
+  },
+  {
+    "en": "Better safe than sorry",
+    "id": "Lebih baik mencegah daripada mengobati"
+  },
+  {
+    "en": "You live and you learn",
+    "id": "Hidup adalah pembelajaran"
+  },
+  {
+    "en": "No pain, no gain",
+    "id": "Bersakit-sakit dahulu, bersenang-senang kemudian"
+  },
+  {
+    "en": "It is what it is",
+    "id": "Ya begitulah adanya"
+  },
+  {
+    "en": "To make a long story short",
+    "id": "Singkatnya"
+  },
+  {
+    "en": "To get cold feet",
+    "id": "Menjadi ragu atau takut (sebelum melakukan sesuatu)"
+  },
+  {
+    "en": "To hit the road",
+    "id": "Berangkat / Memulai perjalanan"
+  },
+  {
+    "en": "I'm all ears",
+    "id": "Saya mendengarkan dengan saksama"
+  },
+  {
+    "en": "To sleep on it",
+    "id": "Memikirkannya semalaman (sebelum memutuskan)"
+  },
+  {
+    "en": "To play it by ear",
+    "id": "Melihat situasi dan kondisi nanti"
+  },
+  {
+    "en": "To go with the flow",
+    "id": "Mengikuti arus saja"
+  },
+  {
+    "en": "To be broke",
+    "id": "Tidak punya uang / Bokek"
+  },
+  {
+    "en": "To be loaded",
+    "id": "Sangat kaya"
+  },
+  {
+    "en": "It's a rip-off",
+    "id": "Harganya terlalu mahal / Penipuan"
+  },
+  {
+    "en": "It's a steal",
+    "id": "Harganya sangat murah"
+  },
+  {
+    "en": "To be on the same page",
+    "id": "Sepemahaman"
+  },
+  {
+    "en": "I second that",
+    "id": "Saya setuju dengan itu"
+  },
+  {
+    "en": "Fair enough",
+    "id": "Cukup adil / Masuk akal"
+  },
+  {
+    "en": "I'm swamped",
+    "id": "Saya sangat sibuk"
+  },
+  {
+    "en": "I have a lot on my plate",
+    "id": "Saya punya banyak urusan"
+  },
+  {
+    "en": "To bite the bullet",
+    "id": "Menghadapi situasi sulit dengan tegar"
+  },
+  {
+    "en": "To cut to the chase",
+    "id": "Langsung ke intinya"
+  },
+  {
+    "en": "To get straight to the point",
+    "id": "Langsung ke intinya"
+  },
+  {
+    "en": "To beat around the bush",
+    "id": "Bertele-tele"
+  },
+  {
+    "en": "To spill the beans",
+    "id": "Membocorkan rahasia"
+  },
+  {
+    "en": "To let the cat out of the bag",
+    "id": "Membocorkan rahasia"
+  },
+  {
+    "en": "To be under the weather",
+    "id": "Merasa tidak enak badan"
+  },
+  {
+    "en": "To be fit as a fiddle",
+    "id": "Sangat sehat dan bugar"
+  },
+  {
+    "en": "To cost an arm and a leg",
+    "id": "Sangat mahal"
+  },
+  {
+    "en": "To add fuel to the fire",
+    "id": "Memperkeruh suasana"
+  },
+  {
+    "en": "To burn bridges",
+    "id": "Merusak hubungan (sehingga tidak bisa kembali)"
+  },
+  {
+    "en": "To cry over spilt milk",
+    "id": "Menyesali sesuatu yang sudah terjadi"
+  },
+  {
+    "en": "Curiosity killed the cat",
+    "id": "Rasa ingin tahu yang berlebihan bisa berbahaya"
+  },
+  {
+    "en": "Don't put all your eggs in one basket",
+    "id": "Jangan menaruh semua harapan pada satu hal"
+  },
+  {
+    "en": "Every cloud has a silver lining",
+    "id": "Selalu ada hikmah di balik setiap masalah"
+  },
+  {
+    "en": "To hit the books",
+    "id": "Belajar dengan giat"
+  },
+  {
+    "en": "To hit the sack / hay",
+    "id": "Pergi tidur"
+  },
+  {
+    "en": "To twist someone's arm",
+    "id": "Meyakinkan seseorang dengan paksa"
+  },
+  {
+    "en": "To stab someone in the back",
+    "id": "Menusuk dari belakang / Berkhianat"
+  },
+  {
+    "en": "To lose one's touch",
+    "id": "Kehilangan kemampuan atau keahlian"
+  },
+  {
+    "en": "To sit tight",
+    "id": "Menunggu dengan sabar"
+  },
+  {
+    "en": "To go cold turkey",
+    "id": "Berhenti total dari kebiasaan buruk"
+  },
+  {
+    "en": "To face the music",
+    "id": "Menghadapi konsekuensi"
+  },
+  {
+    "en": "To ring a bell",
+    "id": "Terdengar familiar"
+  },
+  {
+    "en": "To rule of thumb",
+    "id": "Aturan praktis / Pedoman umum"
+  },
+  {
+    "en": "To be on the ball",
+    "id": "Cepat dan kompeten"
+  },
+  {
+    "en": "To look like a million dollars",
+    "id": "Terlihat sangat menarik dan menawan"
+  },
+  {
+    "en": "To be born with a silver spoon in one's mouth",
+    "id": "Lahir dari keluarga kaya"
+  },
+  {
+    "en": "To go from rags to riches",
+    "id": "Dari miskin menjadi kaya"
+  },
+  {
+    "en": "The best of both worlds",
+    "id": "Mendapatkan keuntungan dari dua situasi berbeda"
+  },
+  {
+    "en": "To be in hot water",
+    "id": "Dalam masalah serius"
+  },
+  {
+    "en": "To be in the same boat",
+    "id": "Berada dalam situasi sulit yang sama"
+  },
+  {
+    "en": "To know something like the back of one's hand",
+    "id": "Sangat mengenal sesuatu"
+  },
+  {
+    "en": "To run on fumes",
+    "id": "Terus berjalan dengan sisa tenaga"
+  },
+  {
+    "en": "To throw in the towel",
+    "id": "Menyerah"
+  },
+  {
+    "en": "To be a couch potato",
+    "id": "Orang yang malas dan suka menonton TV"
+  },
+  {
+    "en": "To be a social butterfly",
+    "id": "Orang yang sangat suka bersosialisasi"
+  },
+  {
+    "en": "To be a chatterbox",
+    "id": "Orang yang banyak bicara"
+  },
+  {
+    "en": "To have a chip on one's shoulder",
+    "id": "Merasa rendah diri dan mudah tersinggung"
+  },
+  {
+    "en": "To have a sweet tooth",
+    "id": "Suka makanan manis"
+  },
+  {
+    "en": "To have butterflies in one's stomach",
+    "id": "Merasa gugup atau berdebar-debar"
+  },
+  {
+    "en": "To have a memory like a sieve",
+    "id": "Sangat pelupa"
+  },
+  {
+    "en": "To be a jack-of-all-trades",
+    "id": "Orang yang bisa melakukan banyak hal (tapi tidak ahli)"
+  },
+  {
+    "en": "To be a penny pincher",
+    "id": "Orang yang sangat hemat / pelit"
+  },
+  {
+    "en": "To be a straight arrow",
+    "id": "Orang yang jujur dan lurus"
+  },
+  {
+    "en": "To be a wet blanket",
+    "id": "Orang yang merusak kesenangan"
+  },
+  {
+    "en": "To be an open book",
+    "id": "Orang yang mudah ditebak / transparan"
+  },
+  {
+    "en": "To be larger than life",
+    "id": "Memiliki kepribadian yang sangat menarik perhatian"
+  },
+  {
+    "en": "To be thick-skinned",
+    "id": "Tidak mudah tersinggung oleh kritik"
+  },
+  {
+    "en": "To be thin-skinned",
+    "id": "Mudah tersinggung oleh kritik"
+  },
+  {
+    "en": "To wear one's heart on one's sleeve",
+    "id": "Terbuka mengenai perasaan"
+  },
+  {
+    "en": "To get up on the wrong side of the bed",
+    "id": "Bangun dengan suasana hati yang buruk"
+  }
+]

@@ -1,0 +1,995 @@
+[
+  {
+    "en": "Hello",
+    "id": "Halo"
+  },
+  {
+    "en": "Good morning",
+    "id": "Selamat pagi"
+  },
+  {
+    "en": "Good afternoon",
+    "id": "Selamat siang"
+  },
+  {
+    "en": "Good evening",
+    "id": "Selamat sore"
+  },
+  {
+    "en": "Good night",
+    "id": "Selamat malam"
+  },
+  {
+    "en": "How are you?",
+    "id": "Apa kabar?"
+  },
+  {
+    "en": "I'm fine, thank you",
+    "id": "Saya baik, terima kasih"
+  },
+  {
+    "en": "What is your name?",
+    "id": "Siapa nama Anda?"
+  },
+  {
+    "en": "My name is...",
+    "id": "Nama saya..."
+  },
+  {
+    "en": "Nice to meet you",
+    "id": "Senang bertemu dengan Anda"
+  },
+  {
+    "en": "Where are you from?",
+    "id": "Anda berasal dari mana?"
+  },
+  {
+    "en": "I am from Indonesia",
+    "id": "Saya dari Indonesia"
+  },
+  {
+    "en": "How old are you?",
+    "id": "Berapa umur Anda?"
+  },
+  {
+    "en": "I am 25 years old",
+    "id": "Saya berumur 25 tahun"
+  },
+  {
+    "en": "What do you do?",
+    "id": "Apa pekerjaan Anda?"
+  },
+  {
+    "en": "I am a student",
+    "id": "Saya seorang pelajar"
+  },
+  {
+    "en": "I work as a teacher",
+    "id": "Saya bekerja sebagai guru"
+  },
+  {
+    "en": "Do you speak English?",
+    "id": "Apakah Anda berbicara bahasa Inggris?"
+  },
+  {
+    "en": "Yes, a little",
+    "id": "Ya, sedikit"
+  },
+  {
+    "en": "I don't understand",
+    "id": "Saya tidak mengerti"
+  },
+  {
+    "en": "Could you repeat that?",
+    "id": "Bisakah Anda mengulanginya?"
+  },
+  {
+    "en": "Please speak slowly",
+    "id": "Tolong bicara pelan-pelan"
+  },
+  {
+    "en": "Thank you",
+    "id": "Terima kasih"
+  },
+  {
+    "en": "You're welcome",
+    "id": "Sama-sama"
+  },
+  {
+    "en": "Excuse me",
+    "id": "Permisi"
+  },
+  {
+    "en": "I'm sorry",
+    "id": "Maaf"
+  },
+  {
+    "en": "No problem",
+    "id": "Tidak masalah"
+  },
+  {
+    "en": "Goodbye",
+    "id": "Selamat tinggal"
+  },
+  {
+    "en": "See you later",
+    "id": "Sampai jumpa lagi"
+  },
+  {
+    "en": "What time is it?",
+    "id": "Jam berapa sekarang?"
+  },
+  {
+    "en": "It's 3 o'clock",
+    "id": "Sekarang jam 3"
+  },
+  {
+    "en": "Today is Monday",
+    "id": "Hari ini hari Senin"
+  },
+  {
+    "en": "Tomorrow is Tuesday",
+    "id": "Besok hari Selasa"
+  },
+  {
+    "en": "Yesterday was Sunday",
+    "id": "Kemarin hari Minggu"
+  },
+  {
+    "en": "What is this?",
+    "id": "Apa ini?"
+  },
+  {
+    "en": "This is a book",
+    "id": "Ini adalah buku"
+  },
+  {
+    "en": "That is a pen",
+    "id": "Itu adalah pulpen"
+  },
+  {
+    "en": "How much is this?",
+    "id": "Berapa harganya ini?"
+  },
+  {
+    "en": "It's 50,000 rupiah",
+    "id": "Harganya 50.000 rupiah"
+  },
+  {
+    "en": "I would like to buy this",
+    "id": "Saya ingin membeli ini"
+  },
+  {
+    "en": "Do you have any questions?",
+    "id": "Apakah Anda mempunyai pertanyaan?"
+  },
+  {
+    "en": "Where is the toilet?",
+    "id": "Di mana toiletnya?"
+  },
+  {
+    "en": "It's over there",
+    "id": "Itu di sebelah sana"
+  },
+  {
+    "en": "Turn left",
+    "id": "Belok kiri"
+  },
+  {
+    "en": "Turn right",
+    "id": "Belok kanan"
+  },
+  {
+    "en": "Go straight",
+    "id": "Jalan lurus"
+  },
+  {
+    "en": "I'm hungry",
+    "id": "Saya lapar"
+  },
+  {
+    "en": "I'm thirsty",
+    "id": "Saya haus"
+  },
+  {
+    "en": "Let's eat",
+    "id": "Mari kita makan"
+  },
+  {
+    "en": "The food is delicious",
+    "id": "Makanannya enak"
+  },
+  {
+    "en": "I don't eat meat",
+    "id": "Saya tidak makan daging"
+  },
+  {
+    "en": "I love Indonesian food",
+    "id": "Saya suka makanan Indonesia"
+  },
+  {
+    "en": "What is your hobby?",
+    "id": "Apa hobi Anda?"
+  },
+  {
+    "en": "I like reading books",
+    "id": "Saya suka membaca buku"
+  },
+  {
+    "en": "I enjoy playing football",
+    "id": "Saya senang bermain sepak bola"
+  },
+  {
+    "en": "It's raining",
+    "id": "Sekarang sedang hujan"
+  },
+  {
+    "en": "The weather is hot",
+    "id": "Cuacanya panas"
+  },
+  {
+    "en": "It's cold today",
+    "id": "Hari ini dingin"
+  },
+  {
+    "en": "I'm tired",
+    "id": "Saya lelah"
+  },
+  {
+    "en": "I want to sleep",
+    "id": "Saya ingin tidur"
+  },
+  {
+    "en": "Happy birthday",
+    "id": "Selamat ulang tahun"
+  },
+  {
+    "en": "Congratulations",
+    "id": "Selamat"
+  },
+  {
+    "en": "I miss you",
+    "id": "Saya rindu padamu"
+  },
+  {
+    "en": "I love you",
+    "id": "Aku mencintaimu"
+  },
+  {
+    "en": "Be careful",
+    "id": "Hati-hati"
+  },
+  {
+    "en": "Get well soon",
+    "id": "Semoga cepat sembuh"
+  },
+  {
+    "en": "Help!",
+    "id": "Tolong!"
+  },
+  {
+    "en": "Call the police",
+    "id": "Panggil polisi"
+  },
+  {
+    "en": "I need a doctor",
+    "id": "Saya butuh dokter"
+  },
+  {
+    "en": "Where is the hospital?",
+    "id": "Di mana rumah sakitnya?"
+  },
+  {
+    "en": "Can you help me?",
+    "id": "Bisakah Anda membantu saya?"
+  },
+  {
+    "en": "Of course",
+    "id": "Tentu saja"
+  },
+  {
+    "en": "I don't know",
+    "id": "Saya tidak tahu"
+  },
+  {
+    "en": "Maybe",
+    "id": "Mungkin"
+  },
+  {
+    "en": "Never mind",
+    "id": "Lupakan saja"
+  },
+  {
+    "en": "That's great",
+    "id": "Itu hebat"
+  },
+  {
+    "en": "That's too bad",
+    "id": "Sayang sekali"
+  },
+  {
+    "en": "What a pity",
+    "id": "Kasihan"
+  },
+  {
+    "en": "I agree",
+    "id": "Saya setuju"
+  },
+  {
+    "en": "I disagree",
+    "id": "Saya tidak setuju"
+  },
+  {
+    "en": "That's enough",
+    "id": "Sudah cukup"
+  },
+  {
+    "en": "I'm busy",
+    "id": "Saya sibuk"
+  },
+  {
+    "en": "Wait a minute",
+    "id": "Tunggu sebentar"
+  },
+  {
+    "en": "Hurry up",
+    "id": "Cepatlah"
+  },
+  {
+    "en": "Take your time",
+    "id": "Santai saja"
+  },
+  {
+    "en": "Let me think",
+    "id": "Biar saya pikir dulu"
+  },
+  {
+    "en": "I forgot",
+    "id": "Saya lupa"
+  },
+  {
+    "en": "Remember this",
+    "id": "Ingat ini"
+  },
+  {
+    "en": "That's interesting",
+    "id": "Itu menarik"
+  },
+  {
+    "en": "I'm bored",
+    "id": "Saya bosan"
+  },
+  {
+    "en": "I'm excited",
+    "id": "Saya senang"
+  },
+  {
+    "en": "I'm nervous",
+    "id": "Saya gugup"
+  },
+  {
+    "en": "Don't worry",
+    "id": "Jangan khawatir"
+  },
+  {
+    "en": "Calm down",
+    "id": "Tenang"
+  },
+  {
+    "en": "Stop it",
+    "id": "Hentikan"
+  },
+  {
+    "en": "Come here",
+    "id": "Kemarilah"
+  },
+  {
+    "en": "Go away",
+    "id": "Pergilah"
+  },
+  {
+    "en": "Be quiet",
+    "id": "Diam"
+  },
+  {
+    "en": "Speak up",
+    "id": "Bicaralah lebih keras"
+  },
+  {
+    "en": "I can't hear you",
+    "id": "Saya tidak bisa mendengar Anda"
+  },
+  {
+    "en": "The phone is ringing",
+    "id": "Teleponnya berdering"
+  },
+  {
+    "en": "Who is calling?",
+    "id": "Siapa yang menelepon?"
+  },
+  {
+    "en": "Can I call you later?",
+    "id": "Bisakah saya menelepon Anda nanti?"
+  },
+  {
+    "en": "I'll text you",
+    "id": "Saya akan mengirim pesan"
+  },
+  {
+    "en": "Check your email",
+    "id": "Cek email Anda"
+  },
+  {
+    "en": "I'm online",
+    "id": "Saya sedang online"
+  },
+  {
+    "en": "The internet is slow",
+    "id": "Internetnya lambat"
+  },
+  {
+    "en": "My computer crashed",
+    "id": "Komputer saya hang"
+  },
+  {
+    "en": "I need to charge my phone",
+    "id": "Saya perlu mengisi daya ponsel"
+  },
+  {
+    "en": "The battery is low",
+    "id": "Baterainya lemah"
+  },
+  {
+    "en": "Let's take a photo",
+    "id": "Mari kita berfoto"
+  },
+  {
+    "en": "Smile!",
+    "id": "Senyum!"
+  },
+  {
+    "en": "Say cheese!",
+    "id": "Bilang cheese!"
+  },
+
+  {
+    "en": "And you?",
+    "id": "Dan Anda?"
+  },
+  {
+    "en": "I'm not sure",
+    "id": "Saya tidak yakin"
+  },
+  {
+    "en": "I think so",
+    "id": "Saya rasa begitu"
+  },
+  {
+    "en": "I hope so",
+    "id": "Saya harap begitu"
+  },
+  {
+    "en": "What happened?",
+    "id": "Apa yang terjadi?"
+  },
+  {
+    "en": "Are you okay?",
+    "id": "Anda baik-baik saja?"
+  },
+  {
+    "en": "I'm okay",
+    "id": "Saya baik-baik saja"
+  },
+  {
+    "en": "What's wrong?",
+    "id": "Ada apa?"
+  },
+  {
+    "en": "Nothing much",
+    "id": "Tidak banyak"
+  },
+  {
+    "en": "I'm kidding",
+    "id": "Saya bercanda"
+  },
+  {
+    "en": "Let's go",
+    "id": "Ayo pergi"
+  },
+  {
+    "en": "Have fun",
+    "id": "Selamat bersenang-senang"
+  },
+  {
+    "en": "Take care",
+    "id": "Jaga diri"
+  },
+  {
+    "en": "Here you are",
+    "id": "Ini dia"
+  },
+  {
+    "en": "Over here",
+    "id": "Di sebelah sini"
+  },
+  {
+    "en": "Over there",
+    "id": "Di sebelah sana"
+  },
+  {
+    "en": "Family",
+    "id": "Keluarga"
+  },
+  {
+    "en": "Mother",
+    "id": "Ibu"
+  },
+  {
+    "en": "Father",
+    "id": "Ayah"
+  },
+  {
+    "en": "Parent",
+    "id": "Orang tua"
+  },
+  {
+    "en": "Child",
+    "id": "Anak"
+  },
+  {
+    "en": "Son",
+    "id": "Anak laki-laki"
+  },
+  {
+    "en": "Daughter",
+    "id": "Anak perempuan"
+  },
+  {
+    "en": "Brother",
+    "id": "Saudara laki-laki"
+  },
+  {
+    "en": "Sister",
+    "id": "Saudara perempuan"
+  },
+  {
+    "en": "Baby",
+    "id": "Bayi"
+  },
+  {
+    "en": "Husband",
+    "id": "Suami"
+  },
+  {
+    "en": "Wife",
+    "id": "Istri"
+  },
+  {
+    "en": "Friend",
+    "id": "Teman"
+  },
+  {
+    "en": "Man",
+    "id": "Pria"
+  },
+  {
+    "en": "Woman",
+    "id": "Wanita"
+  },
+  {
+    "en": "Boy",
+    "id": "Anak laki-laki"
+  },
+  {
+    "en": "Girl",
+    "id": "Anak perempuan"
+  },
+  {
+    "en": "Home",
+    "id": "Rumah"
+  },
+  {
+    "en": "Room",
+    "id": "Kamar"
+  },
+  {
+    "en": "Kitchen",
+    "id": "Dapur"
+  },
+  {
+    "en": "Bedroom",
+    "id": "Kamar tidur"
+  },
+  {
+    "en": "Bathroom",
+    "id": "Kamar mandi"
+  },
+  {
+    "en": "School",
+    "id": "Sekolah"
+  },
+  {
+    "en": "City",
+    "id": "Kota"
+  },
+  {
+    "en": "Country",
+    "id": "Negara"
+  },
+  {
+    "en": "World",
+    "id": "Dunia"
+  },
+  {
+    "en": "Restaurant",
+    "id": "Restoran"
+  },
+  {
+    "en": "Market",
+    "id": "Pasar"
+  },
+  {
+    "en": "Shop",
+    "id": "Toko"
+  },
+  {
+    "en": "Car",
+    "id": "Mobil"
+  },
+  {
+    "en": "Bus",
+    "id": "Bis"
+  },
+  {
+    "en": "Train",
+    "id": "Kereta"
+  },
+  {
+    "en": "Airplane",
+    "id": "Pesawat"
+  },
+  {
+    "en": "Street",
+    "id": "Jalan"
+  },
+  {
+    "en": "Money",
+    "id": "Uang"
+  },
+  {
+    "en": "Time",
+    "id": "Waktu"
+  },
+  {
+    "en": "Day",
+    "id": "Hari"
+  },
+  {
+    "en": "Week",
+    "id": "Minggu"
+  },
+  {
+    "en": "Month",
+    "id": "Bulan"
+  },
+  {
+    "en": "Year",
+    "id": "Tahun"
+  },
+  {
+    "en": "Hour",
+    "id": "Jam"
+  },
+  {
+    "en": "Minute",
+    "id": "Menit"
+  },
+  {
+    "en": "Second",
+    "id": "Detik"
+  },
+  {
+    "en": "Breakfast",
+    "id": "Sarapan"
+  },
+  {
+    "en": "Lunch",
+    "id": "Makan siang"
+  },
+  {
+    "en": "Dinner",
+    "id": "Makan malam"
+  },
+  {
+    "en": "Fruit",
+    "id": "Buah"
+  },
+  {
+    "en": "Vegetable",
+    "id": "Sayur"
+  },
+  {
+    "en": "Water",
+    "id": "Air"
+  },
+  {
+    "en": "Coffee",
+    "id": "Kopi"
+  },
+  {
+    "en": "Tea",
+    "id": "Teh"
+  },
+  {
+    "en": "Red",
+    "id": "Merah"
+  },
+  {
+    "en": "Green",
+    "id": "Hijau"
+  },
+  {
+    "en": "Blue",
+    "id": "Biru"
+  },
+  {
+    "en": "Yellow",
+    "id": "Kuning"
+  },
+  {
+    "en": "Black",
+    "id": "Hitam"
+  },
+  {
+    "en": "White",
+    "id": "Putih"
+  },
+  {
+    "en": "Big",
+    "id": "Besar"
+  },
+  {
+    "en": "Small",
+    "id": "Kecil"
+  },
+  {
+    "en": "Hot",
+    "id": "Panas"
+  },
+  {
+    "en": "Cold",
+    "id": "Dingin"
+  },
+  {
+    "en": "Good",
+    "id": "Baik"
+  },
+  {
+    "en": "Bad",
+    "id": "Buruk"
+  },
+  {
+    "en": "Happy",
+    "id": "Senang"
+  },
+  {
+    "en": "Sad",
+    "id": "Sedih"
+  },
+  {
+    "en": "Angry",
+    "id": "Marah"
+  },
+  {
+    "en": "New",
+    "id": "Baru"
+  },
+  {
+    "en": "Old",
+    "id": "Lama / Tua"
+  },
+  {
+    "en": "Easy",
+    "id": "Mudah"
+  },
+  {
+    "en": "Difficult",
+    "id": "Sulit"
+  },
+  {
+    "en": "What's the weather like?",
+    "id": "Bagaimana cuacanya?"
+  },
+  {
+    "en": "It's sunny",
+    "id": "Cerah"
+  },
+  {
+    "en": "It's cloudy",
+    "id": "Mendung"
+  },
+  {
+    "en": "It's windy",
+    "id": "Berangin"
+  },
+  {
+    "en": "I'm lost",
+    "id": "Saya tersesat"
+  },
+  {
+    "en": "Can I help you?",
+    "id": "Ada yang bisa saya bantu?"
+  },
+  {
+    "en": "I'm just looking, thanks",
+    "id": "Saya hanya lihat-lihat, terima kasih"
+  },
+  {
+    "en": "Do you have this in another color?",
+    "id": "Apakah ada warna lain untuk ini?"
+  },
+  {
+    "en": "Can I try this on?",
+    "id": "Bolehkah saya mencobanya?"
+  },
+  {
+    "en": "A table for two, please",
+    "id": "Meja untuk dua orang"
+  },
+  {
+    "en": "What do you recommend?",
+    "id": "Apa yang Anda rekomendasikan?"
+  },
+  {
+    "en": "The check, please",
+    "id": "Minta bonnya"
+  },
+  {
+    "en": "Keep the change",
+    "id": "Ambil saja kembaliannya"
+  },
+  {
+    "en": "I need to make a phone call",
+    "id": "Saya perlu menelepon"
+  },
+  {
+    "en": "My battery is dead",
+    "id": "Baterai saya habis"
+  },
+  {
+    "en": "Do you have Wi-Fi?",
+    "id": "Apakah ada Wi-Fi?"
+  },
+  {
+    "en": "What's the password?",
+    "id": "Apa kata sandinya?"
+  },
+  {
+    "en": "I'm looking forward to it",
+    "id": "Saya tidak sabar menantikannya"
+  },
+  {
+    "en": "That sounds fun",
+    "id": "Terdengar menyenangkan"
+  },
+  {
+    "en": "I have no idea",
+    "id": "Saya tidak tahu sama sekali"
+  },
+  {
+    "en": "It's up to you",
+    "id": "Terserah Anda"
+  },
+  {
+    "en": "That makes sense",
+    "id": "Itu masuk akal"
+  },
+  {
+    "en": "Good point",
+    "id": "Poin yang bagus"
+  },
+  {
+    "en": "I see your point",
+    "id": "Saya mengerti maksud Anda"
+  },
+  {
+    "en": "What do you mean?",
+    "id": "Apa maksud Anda?"
+  },
+  {
+    "en": "Could you explain that?",
+    "id": "Bisakah Anda menjelaskannya?"
+  },
+  {
+    "en": "For example?",
+    "id": "Contohnya?"
+  },
+  {
+    "en": "I'm not feeling well",
+    "id": "Saya merasa tidak enak badan"
+  },
+  {
+    "en": "I have a cold",
+    "id": "Saya sedang flu"
+  },
+  {
+    "en": "I have a fever",
+    "id": "Saya demam"
+  },
+  {
+    "en": "My stomach hurts",
+    "id": "Perut saya sakit"
+  },
+  {
+    "en": "I need some rest",
+    "id": "Saya butuh istirahat"
+  },
+  {
+    "en": "Can you speak louder?",
+    "id": "Bisakah bicara lebih keras?"
+  },
+  {
+    "en": "I'm on my way",
+    "id": "Saya sedang dalam perjalanan"
+  },
+  {
+    "en": "I'll be there soon",
+    "id": "Saya akan segera sampai"
+  },
+  {
+    "en": "I'm running late",
+    "id": "Saya terlambat"
+  },
+  {
+    "en": "Let's meet at...",
+    "id": "Mari bertemu di..."
+  },
+  {
+    "en": "What are you doing this weekend?",
+    "id": "Apa rencanamu akhir pekan ini?"
+  },
+  {
+    "en": "Do you want to hang out?",
+    "id": "Mau kumpul bareng?"
+  },
+  {
+    "en": "That was awesome",
+    "id": "Itu keren sekali"
+  },
+  {
+    "en": "I had a great time",
+    "id": "Saya sangat bersenang-senang"
+  },
+  {
+    "en": "It was a pleasure",
+    "id": "Dengan senang hati"
+  },
+  {
+    "en": "Don't mention it",
+    "id": "Tidak masalah"
+  },
+  {
+    "en": "Bless you",
+    "id": "(diucapkan saat seseorang bersin)"
+  },
+  {
+    "en": "Cheers",
+    "id": "(diucapkan saat bersulang)"
+  },
+  {
+    "en": "You're the best",
+    "id": "Kamu yang terbaik"
+  },
+  {
+    "en": "I owe you one",
+    "id": "Saya berhutang budi padamu"
+  },
+  {
+    "en": "It's my treat",
+    "id": "Saya yang traktir"
+  },
+  {
+    "en": "It's on the house",
+    "id": "Gratis dari restoran/toko"
+  }
+]

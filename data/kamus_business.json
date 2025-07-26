@@ -1,0 +1,1087 @@
+[
+  {
+    "en": "Business",
+    "id": "Bisnis"
+  },
+  {
+    "en": "Company",
+    "id": "Perusahaan"
+  },
+  {
+    "en": "Office",
+    "id": "Kantor"
+  },
+  {
+    "en": "Employee",
+    "id": "Karyawan / Pegawai"
+  },
+  {
+    "en": "Manager",
+    "id": "Manajer"
+  },
+  {
+    "en": "Meeting",
+    "id": "Rapat"
+  },
+  {
+    "en": "Customer",
+    "id": "Pelanggan"
+  },
+  {
+    "en": "Product",
+    "id": "Produk"
+  },
+  {
+    "en": "Service",
+    "id": "Jasa / Layanan"
+  },
+  {
+    "en": "Price",
+    "id": "Harga"
+  },
+  {
+    "en": "Payment",
+    "id": "Pembayaran"
+  },
+  {
+    "en": "Invoice",
+    "id": "Faktur / Tagihan"
+  },
+  {
+    "en": "Receipt",
+    "id": "Kuitansi / Tanda Terima"
+  },
+  {
+    "en": "Profit",
+    "id": "Laba / Keuntungan"
+  },
+  {
+    "en": "Loss",
+    "id": "Rugi / Kerugian"
+  },
+  {
+    "en": "Marketing",
+    "id": "Pemasaran"
+  },
+  {
+    "en": "Sales",
+    "id": "Penjualan"
+  },
+  {
+    "en": "Advertisement",
+    "id": "Iklan"
+  },
+  {
+    "en": "Brand",
+    "id": "Merek"
+  },
+  {
+    "en": "Contract",
+    "id": "Kontrak / Perjanjian"
+  },
+  {
+    "en": "Agreement",
+    "id": "Persetujuan"
+  },
+  {
+    "en": "Goal",
+    "id": "Tujuan"
+  },
+  {
+    "en": "Target",
+    "id": "Target"
+  },
+  {
+    "en": "Deadline",
+    "id": "Tenggat Waktu"
+  },
+  {
+    "en": "Project",
+    "id": "Proyek"
+  },
+  {
+    "en": "Task",
+    "id": "Tugas"
+  },
+  {
+    "en": "Report",
+    "id": "Laporan"
+  },
+  {
+    "en": "Data",
+    "id": "Data"
+  },
+  {
+    "en": "Analysis",
+    "id": "Analisis"
+  },
+  {
+    "en": "Strategy",
+    "id": "Strategi"
+  },
+  {
+    "en": "Budget",
+    "id": "Anggaran"
+  },
+  {
+    "en": "Expense",
+    "id": "Biaya / Pengeluaran"
+  },
+  {
+    "en": "Revenue",
+    "id": "Pendapatan"
+  },
+  {
+    "en": "Income",
+    "id": "Pemasukan"
+  },
+  {
+    "en": "Tax",
+    "id": "Pajak"
+  },
+  {
+    "en": "Salary",
+    "id": "Gaji"
+  },
+  {
+    "en": "Investment",
+    "id": "Investasi"
+  },
+  {
+    "en": "Industry",
+    "id": "Industri"
+  },
+  {
+    "en": "Market",
+    "id": "Pasar"
+  },
+  {
+    "en": "Competition",
+    "id": "Kompetisi / Persaingan"
+  },
+  {
+    "en": "Competitor",
+    "id": "Kompetitor / Pesaing"
+  },
+  {
+    "en": "Supplier",
+    "id": "Pemasok"
+  },
+  {
+    "en": "Partner",
+    "id": "Mitra / Rekan"
+  },
+  {
+    "en": "Partnership",
+    "id": "Kemitraan"
+  },
+  {
+    "en": "Client",
+    "id": "Klien"
+  },
+  {
+    "en": "Consumer",
+    "id": "Konsumen"
+  },
+  {
+    "en": "Human Resources (HR)",
+    "id": "Sumber Daya Manusia (SDM)"
+  },
+  {
+    "en": "Interview",
+    "id": "Wawancara"
+  },
+  {
+    "en": "Resume / CV",
+    "id": "Riwayat Hidup / CV"
+  },
+  {
+    "en": "Career",
+    "id": "Karir"
+  },
+  {
+    "en": "Promotion",
+    "id": "Promosi (Jabatan / Produk)"
+  },
+  {
+    "en": "Negotiation",
+    "id": "Negosiasi"
+  },
+  {
+    "en": "Presentation",
+    "id": "Presentasi"
+  },
+  {
+    "en": "Feedback",
+    "id": "Umpan Balik / Masukan"
+  },
+  {
+    "en": "Management",
+    "id": "Manajemen"
+  },
+  {
+    "en": "Leadership",
+    "id": "Kepemimpinan"
+  },
+  {
+    "en": "Teamwork",
+    "id": "Kerja Tim"
+  },
+  {
+    "en": "Skill",
+    "id": "Keterampilan"
+  },
+  {
+    "en": "Experience",
+    "id": "Pengalaman"
+  },
+  {
+    "en": "Startup",
+    "id": "Perusahaan Rintisan"
+  },
+  {
+    "en": "Entrepreneur",
+    "id": "Wirausahawan"
+  },
+  {
+    "en": "CEO (Chief Executive Officer)",
+    "id": "Direktur Utama"
+  },
+  {
+    "en": "CFO (Chief Financial Officer)",
+    "id": "Direktur Keuangan"
+  },
+  {
+    "en": "CTO (Chief Technology Officer)",
+    "id": "Direktur Teknologi"
+  },
+  {
+    "en": "Headquarters (HQ)",
+    "id": "Kantor Pusat"
+  },
+  {
+    "en": "Branch",
+    "id": "Kantor Cabang"
+  },
+  {
+    "en": "Asset",
+    "id": "Aset / Harta"
+  },
+  {
+    "en": "Liability",
+    "id": "Kewajiban / Liabilitas"
+  },
+  {
+    "en": "Equity",
+    "id": "Ekuitas / Modal"
+  },
+  {
+    "en": "Shareholder",
+    "id": "Pemegang Saham"
+  },
+  {
+    "en": "Stakeholder",
+    "id": "Pemangku Kepentingan"
+  },
+  {
+    "en": "Stock",
+    "id": "Saham"
+  },
+  {
+    "en": "Dividend",
+    "id": "Dividen"
+  },
+  {
+    "en": "Merger",
+    "id": "Merger / Penggabungan Usaha"
+  },
+  {
+    "en": "Acquisition",
+    "id": "Akuisisi"
+  },
+  {
+    "en": "Supply Chain",
+    "id": "Rantai Pasokan"
+  },
+  {
+    "en": "Logistics",
+    "id": "Logistik"
+  },
+  {
+    "en": "Inventory",
+    "id": "Inventaris / Stok Barang"
+  },
+  {
+    "en": "Warehouse",
+    "id": "Gudang"
+  },
+  {
+    "en": "Quality Control",
+    "id": "Kontrol Kualitas"
+  },
+  {
+    "en": "Customer Service",
+    "id": "Layanan Pelanggan"
+  },
+  {
+    "en": "Wholesale",
+    "id": "Grosir"
+  },
+  {
+    "en": "Retail",
+    "id": "Eceran"
+  },
+  {
+    "en": "E-commerce",
+    "id": "Perdagangan Elektronik"
+  },
+  {
+    "en": "Transaction",
+    "id": "Transaksi"
+  },
+  {
+    "en": "Commission",
+    "id": "Komisi"
+  },
+  {
+    "en": "Franchise",
+    "id": "Waralaba"
+  },
+  {
+    "en": "Royalty",
+    "id": "Royalti"
+  },
+  {
+    "en": "Patent",
+    "id": "Paten"
+  },
+  {
+    "en": "Trademark",
+    "id": "Merek Dagang"
+  },
+  {
+    "en": "Copyright",
+    "id": "Hak Cipta"
+  },
+  {
+    "en": "Intellectual Property",
+    "id": "Kekayaan Intelektual"
+  },
+  {
+    "en": "Confidential",
+    "id": "Rahasia"
+  },
+  {
+    "en": "Non-Disclosure Agreement (NDA)",
+    "id": "Perjanjian Kerahasiaan"
+  },
+  {
+    "en": "Proposal",
+    "id": "Proposal / Usulan"
+  },
+  {
+    "en": "Agenda",
+    "id": "Agenda (Rapat)"
+  },
+  {
+    "en": "Minutes of Meeting (MoM)",
+    "id": "Notulen Rapat"
+  },
+  {
+    "en": "Productivity",
+    "id": "Produktivitas"
+  },
+  {
+    "en": "Efficiency",
+    "id": "Efisiensi"
+  },
+  {
+    "en": "Workflow",
+    "id": "Alur Kerja"
+  },
+  {
+    "en": "Delegate",
+    "id": "Mendelegasikan"
+  },
+  {
+    "en": "Outsource",
+    "id": "Alih Daya"
+  },
+  {
+    "en": "Benchmark",
+    "id": "Tolok Ukur"
+  },
+  {
+    "en": "Milestone",
+    "id": "Tonggak Pencapaian"
+  },
+  {
+    "en": "Forecast",
+    "id": "Prakiraan / Proyeksi"
+  },
+  {
+    "en": "Economy",
+    "id": "Ekonomi"
+  },
+  {
+    "en": "Inflation",
+    "id": "Inflasi"
+  },
+  {
+    "en": "Recession",
+    "id": "Resesi"
+  },
+  {
+    "en": "Supply and Demand",
+    "id": "Penawaran dan Permintaan"
+  },
+  {
+    "en": "Monopoly",
+    "id": "Monopoli"
+  },
+  {
+    "en": "Target Audience",
+    "id": "Audiens Target"
+  },
+  {
+    "en": "User Experience (UX)",
+    "id": "Pengalaman Pengguna"
+  },
+  {
+    "en": "User Interface (UI)",
+    "id": "Antarmuka Pengguna"
+  },
+  {
+    "en": "Beta Version",
+    "id": "Versi Beta"
+  },
+  {
+    "en": "Launch",
+    "id": "Peluncuran"
+  },
+  {
+    "en": "Press Release",
+    "id": "Siaran Pers"
+  },
+  {
+    "en": "Public Relations (PR)",
+    "id": "Hubungan Masyarakat (Humas)"
+  },
+  {
+    "en": "Corporate Social Responsibility (CSR)",
+    "id": "Tanggung Jawab Sosial Perusahaan"
+  },
+  {
+    "en": "Venture Capital",
+    "id": "Modal Ventura"
+  },
+  {
+    "en": "Angel Investor",
+    "id": "Investor Malaikat"
+  },
+  {
+    "en": "Seed Funding",
+    "id": "Pendanaan Awal"
+  },
+  {
+    "en": "Business Plan",
+    "id": "Rencana Bisnis"
+  },
+  {
+    "en": "Executive Summary",
+    "id": "Ringkasan Eksekutif"
+  },
+  {
+    "en": "Market Share",
+    "id": "Pangsa Pasar"
+  },
+  {
+    "en": "Competitive Advantage",
+    "id": "Keunggulan Kompetitif"
+  },
+  {
+    "en": "Value Proposition",
+    "id": "Proposisi Nilai"
+  },
+  {
+    "en": "Key Performance Indicator (KPI)",
+    "id": "Indikator Kinerja Utama"
+  },
+  {
+    "en": "Return on Investment (ROI)",
+    "id": "Imbal Hasil Investasi"
+  },
+  {
+    "en": "Cash Flow",
+    "id": "Arus Kas"
+  },
+  {
+    "en": "Break-even Point",
+    "id": "Titik Impas"
+  },
+  {
+    "en": "Profit Margin",
+    "id": "Margin Laba"
+  },
+  {
+    "en": "Overhead",
+    "id": "Biaya Operasional (Overhead)"
+  },
+  {
+    "en": "Scalability",
+    "id": "Skalabilitas"
+  },
+  {
+    "en": "Sustainability",
+    "id": "Keberlanjutan"
+  },
+  {
+    "en": "B2B (Business-to-Business)",
+    "id": "B2B (Bisnis-ke-Bisnis)"
+  },
+  {
+    "en": "B2C (Business-to-Consumer)",
+    "id": "B2C (Bisnis-ke-Konsumen)"
+  },
+  {
+    "en": "SaaS (Software as a Service)",
+    "id": "SaaS (Perangkat Lunak sebagai Layanan)"
+  },
+  {
+    "en": "Minimum Viable Product (MVP)",
+    "id": "Produk Minimum yang Layak"
+  },
+  {
+    "en": "Pivot",
+    "id": "Pivot / Mengubah Arah Bisnis"
+  },
+  {
+    "en": "Disruption",
+    "id": "Disrupsi"
+  },
+  {
+    "en": "Leverage",
+    "id": "Daya Ungkit"
+  },
+  {
+    "en": "Due Diligence",
+    "id": "Uji Tuntas"
+  },
+  {
+    "en": "Collateral",
+    "id": "Jaminan / Agunan"
+  },
+  {
+    "en": "Depreciation",
+    "id": "Penyusutan / Depresiasi"
+  },
+  {
+    "en": "Amortization",
+    "id": "Amortisasi"
+  },
+  {
+    "en": "Audit",
+    "id": "Audit"
+  },
+  {
+    "en": "Compliance",
+    "id": "Kepatuhan"
+  },
+  {
+    "en": "Regulation",
+    "id": "Regulasi / Peraturan"
+  },
+  {
+    "en": "The bottom line",
+    "id": "Intinya / Laba bersih"
+  },
+  {
+    "en": "Think outside the box",
+    "id": "Berpikir kreatif / di luar kebiasaan"
+  },
+  {
+    "en": "Get the ball rolling",
+    "id": "Memulai sesuatu"
+  },
+  {
+    "en": "Go the extra mile",
+    "id": "Melakukan usaha lebih"
+  },
+  {
+    "en": "Red tape",
+    "id": "Birokrasi yang rumit"
+  },
+  {
+    "en": "Cutting corners",
+    "id": "Mengambil jalan pintas (kualitas rendah)"
+  },
+  {
+    "en": "Ahead of the curve",
+    "id": "Lebih maju dari yang lain"
+  },
+  {
+    "en": "Learning curve",
+    "id": "Kurva belajar"
+  },
+  {
+    "en": "On the same page",
+    "id": "Sepemahaman"
+  },
+  {
+    "en": "Touch base",
+    "id": "Menghubungi (untuk kabar terbaru)"
+  },
+  {
+    "en": "Win-win situation",
+    "id": "Situasi yang menguntungkan kedua belah pihak"
+  },
+  {
+    "en": "ASAP (As Soon As Possible)",
+    "id": "Secepat mungkin"
+  },
+  {
+    "en": "FYI (For Your Information)",
+    "id": "Sebagai informasi"
+  },
+  {
+    "en": "To circle back",
+    "id": "Membahas kembali nanti"
+  },
+  {
+    "en": "To deep dive",
+    "id": "Mendalami suatu topik"
+  },
+  {
+    "en": "Bandwidth",
+    "id": "Kapasitas (untuk mengerjakan tugas)"
+  },
+  {
+    "en": "Synergy",
+    "id": "Sinergi"
+  },
+  {
+    "en": "Low-hanging fruit",
+    "id": "Tujuan yang mudah dicapai"
+  },
+  {
+    "en": "Game plan",
+    "id": "Rencana permainan / Strategi"
+  },
+  {
+    "en": "To bring to the table",
+    "id": "Menyumbangkan (ide, nilai)"
+  },
+  {
+    "en": "Core competency",
+    "id": "Kompetensi inti"
+  },
+  {
+    "en": "Best practice",
+    "id": "Praktik terbaik"
+  },
+
+  {
+    "en": "Onboarding",
+    "id": "Orientasi karyawan baru"
+  },
+  {
+    "en": "Offboarding",
+    "id": "Proses pemberhentian karyawan"
+  },
+  {
+    "en": "Performance Review",
+    "id": "Tinjauan Kinerja"
+  },
+  {
+    "en": "Probation",
+    "id": "Masa Percobaan"
+  },
+  {
+    "en": "Layoff",
+    "id": "PHK (Pemutusan Hubungan Kerja)"
+  },
+  {
+    "en": "Severance Package",
+    "id": "Uang Pesangon"
+  },
+  {
+    "en": "Grievance",
+    "id": "Keluhan / Pengaduan (di tempat kerja)"
+  },
+  {
+    "en": "Chain of Command",
+    "id": "Rantai Komando"
+  },
+  {
+    "en": "Empowerment",
+    "id": "Pemberdayaan"
+  },
+  {
+    "en": "Micromanage",
+    "id": "Mengelola secara mikro / terlalu detail"
+  },
+  {
+    "en": "Bull Market",
+    "id": "Pasar Bullish (tren pasar naik)"
+  },
+  {
+    "en": "Bear Market",
+    "id": "Pasar Bearish (tren pasar turun)"
+  },
+  {
+    "en": "Liquidity",
+    "id": "Likuiditas"
+  },
+  {
+    "en": "Insolvency",
+    "id": "Insolvensi (tidak mampu bayar utang)"
+  },
+  {
+    "en": "Bankruptcy",
+    "id": "Kebangkrutan / Pailit"
+  },
+  {
+    "en": "Accounts Receivable (AR)",
+    "id": "Piutang Usaha"
+  },
+  {
+    "en": "Accounts Payable (AP)",
+    "id": "Utang Usaha"
+  },
+  {
+    "en": "Fiscal Year",
+    "id": "Tahun Fiskal / Tahun Anggaran"
+  },
+  {
+    "en": "Quarter (Q1, Q2)",
+    "id": "Kuartal (Q1, Q2)"
+  },
+  {
+    "en": "Capital Gain",
+    "id": "Keuntungan Modal"
+  },
+  {
+    "en": "Gross Margin",
+    "id": "Margin Kotor"
+  },
+  {
+    "en": "Net Margin",
+    "id": "Margin Bersih"
+  },
+  {
+    "en": "Lead Generation",
+    "id": "Penghasilan Prospek (Leads)"
+  },
+  {
+    "en": "Sales Funnel",
+    "id": "Corong Penjualan"
+  },
+  {
+    "en": "Conversion Rate",
+    "id": "Tingkat Konversi"
+  },
+  {
+    "en": "Customer Retention",
+    "id": "Retensi Pelanggan"
+  },
+  {
+    "en": "Demographics",
+    "id": "Demografi"
+  },
+  {
+    "en": "Market Segmentation",
+    "id": "Segmentasi Pasar"
+  },
+  {
+    "en": "Unique Selling Proposition (USP)",
+    "id": "Proposisi Penjualan Unik"
+  },
+  {
+    "en": "Cold Calling",
+    "id": "Panggilan Dingin (telepon ke calon pelanggan)"
+  },
+  {
+    "en": "Board of Directors",
+    "id": "Dewan Direksi"
+  },
+  {
+    "en": "Conflict of Interest",
+    "id": "Konflik Kepentingan"
+  },
+  {
+    "en": "Fiduciary Duty",
+    "id": "Tugas Fidusia (kewajiban menjaga kepercayaan)"
+  },
+  {
+    "en": "Litigation",
+    "id": "Litigasi / Proses Pengadilan"
+  },
+  {
+    "en": "Proprietary Information",
+    "id": "Informasi Hak Milik"
+  },
+  {
+    "en": "To streamline",
+    "id": "Merampingkan (proses)"
+  },
+  {
+    "en": "Pain Point",
+    "id": "Titik Masalah (yang dihadapi pelanggan)"
+  },
+  {
+    "en": "To drill down",
+    "id": "Menganalisis lebih dalam / mendetail"
+  },
+  {
+    "en": "To ping someone",
+    "id": "Menghubungi seseorang (biasanya via chat)"
+  },
+  {
+    "en": "To take something offline",
+    "id": "Membahas sesuatu di luar rapat"
+  },
+  {
+    "en": "To fast-track",
+    "id": "Mempercepat (proyek, proses)"
+  },
+  {
+    "en": "To get buy-in",
+    "id": "Mendapatkan persetujuan / dukungan"
+  },
+  {
+    "en": "A ballpark figure",
+    "id": "Angka perkiraan kasar"
+  },
+  {
+    "en": "To move the goalposts",
+    "id": "Mengubah target di tengah jalan"
+  },
+  {
+    "en": "To raise the bar",
+    "id": "Meningkatkan standar"
+  },
+  {
+    "en": "To wear many hats",
+    "id": "Memiliki banyak peran atau tanggung jawab"
+  },
+  {
+    "en": "To throw in the towel",
+    "id": "Menyerah"
+  },
+  {
+    "en": "To have skin in the game",
+    "id": "Memiliki kepentingan pribadi (dalam suatu bisnis)"
+  },
+  {
+    "en": "A steep learning curve",
+    "id": "Kurva belajar yang curam (sulit dipelajari)"
+  },
+  {
+    "en": "To put all one's eggs in one basket",
+    "id": "Menaruh semua sumber daya pada satu hal"
+  },
+  {
+    "en": "To bite off more than one can chew",
+    "id": "Mengambil pekerjaan lebih dari kapasitas"
+  },
+  {
+    "en": "To have a lot on one's plate",
+    "id": "Memiliki banyak pekerjaan"
+  },
+  {
+    "en": "To be in the loop",
+    "id": "Mengetahui informasi terkini"
+  },
+  {
+    "en": "To be out of the loop",
+    "id": "Tidak mengetahui informasi terkini"
+  },
+  {
+    "en": "Actionable insights",
+    "id": "Wawasan yang dapat ditindaklanjuti"
+  },
+  {
+    "en": "To ramp up",
+    "id": "Meningkatkan (produksi, usaha)"
+  },
+  {
+    "en": "To phase out",
+    "id": "Menghapuskan secara bertahap"
+  },
+  {
+    "en": "To roll out",
+    "id": "Meluncurkan secara bertahap"
+  },
+  {
+    "en": "Blue-sky thinking",
+    "id": "Pemikiran kreatif tanpa batasan"
+  },
+  {
+    "en": "To gain traction",
+    "id": "Mulai mendapatkan momentum / penerimaan pasar"
+  },
+  {
+    "en": "A game changer",
+    "id": "Sesuatu yang mengubah keadaan secara drastis"
+  },
+  {
+    "en": "Boilerplate",
+    "id": "Teks standar (biasanya dalam kontrak atau email)"
+  },
+  {
+    "en": "Headroom",
+    "id": "Ruang untuk bertumbuh"
+  },
+  {
+    "en": "To corner the market",
+    "id": "Menguasai pasar"
+  },
+  {
+    "en": "C-suite (e.g., CEO, CFO)",
+    "id": "Jajaran eksekutif puncak"
+  },
+  {
+    "en": "Downsizing",
+    "id": "Perampingan (pengurangan karyawan)"
+  },
+  {
+    "en": "Ergonomics",
+    "id": "Ergonomi (studi tentang efisiensi di lingkungan kerja)"
+  },
+  {
+    "en": "Glass ceiling",
+    "id": "Penghalang tak terlihat (biasanya untuk wanita/minoritas naik jabatan)"
+  },
+  {
+    "en": "Golden handshake",
+    "id": "Pesangon besar (untuk pensiun dini atau PHK)"
+  },
+  {
+    "en": "Helicopter view",
+    "id": "Gambaran umum / Tinjauan luas"
+  },
+  {
+    "en": "Joint Venture",
+    "id": "Usaha Patungan"
+  },
+  {
+    "en": "Keynote speaker",
+    "id": "Pembicara utama"
+  },
+  {
+    "en": "Laissez-faire",
+    "id": "Gaya kepemimpinan lepas tangan"
+  },
+  {
+    "en": "Networking",
+    "id": "Membangun jaringan / relasi"
+  },
+  {
+    "en": "Niche market",
+    "id": "Pasar ceruk / sangat spesifik"
+  },
+  {
+    "en": "Pro bono",
+    "id": "Kerja profesional tanpa bayaran (untuk kebaikan publik)"
+  },
+  {
+    "en": "Proof of concept (POC)",
+    "id": "Bukti konsep"
+  },
+  {
+    "en": "Quarterly report",
+    "id": "Laporan triwulanan"
+  },
+  {
+    "en": "Return on Equity (ROE)",
+    "id": "Imbal hasil atas ekuitas"
+  },
+  {
+    "en": "SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats)",
+    "id": "Analisis SWOT"
+  },
+  {
+    "en": "Terms of Service (TOS)",
+    "id": "Syarat dan Ketentuan Layanan"
+  },
+  {
+    "en": "Value-added",
+    "id": "Nilai tambah"
+  },
+  {
+    "en": "White-collar",
+    "id": "Pekerja kerah putih (pekerja kantor)"
+  },
+  {
+    "en": "Blue-collar",
+    "id": "Pekerja kerah biru (pekerja lapangan/manual)"
+  },
+  {
+    "en": "To earmark funds",
+    "id": "Mengalokasikan dana (untuk tujuan tertentu)"
+  },
+  {
+    "en": "To fast-track a project",
+    "id": "Mempercepat sebuah proyek"
+  },
+  {
+    "en": "To iron out the details",
+    "id": "Menyelesaikan detail-detail kecil"
+  },
+  {
+    "en": "To keep someone in the loop",
+    "id": "Terus memberi informasi kepada seseorang"
+  },
+  {
+    "en": "To pull the plug",
+    "id": "Menghentikan proyek atau inisiatif"
+  },
+  {
+    "en": "To table a motion",
+    "id": "Menunda diskusi sebuah mosi"
+  },
+  {
+    "en": "To think on one's feet",
+    "id": "Berpikir cepat dan tanggap"
+  },
+  {
+    "en": "To upskill",
+    "id": "Meningkatkan keterampilan"
+  },
+  {
+    "en": "Verbal warning",
+    "id": "Peringatan lisan"
+  },
+  {
+    "en": "Written warning",
+    "id": "Peringatan tertulis"
+  },
+  {
+    "en": "Zero-sum game",
+    "id": "Permainan zero-sum (keuntungan satu pihak adalah kerugian pihak lain)"
+  },
+  {
+    "en": "Silent partner",
+    "id": "Mitra pasif (hanya menanam modal)"
+  },
+  {
+    "en": "Go-to-market strategy",
+    "id": "Strategi peluncuran ke pasar"
+  },
+  {
+    "en": "Incubator",
+    "id": "Inkubator (program untuk startup)"
+  },
+  {
+    "en": "Accelerator",
+    "id": "Akselerator (program percepatan startup)"
+  },
+  {
+    "en": "Thought leader",
+    "id": "Pemimpin pemikiran / pakar di bidangnya"
+  },
+  {
+    "en": "Exit strategy",
+    "id": "Strategi keluar (dari investasi atau bisnis)"
+  }
+]

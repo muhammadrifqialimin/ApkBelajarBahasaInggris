@@ -1,0 +1,1199 @@
+[
+  {
+    "en": "Food",
+    "id": "Makanan"
+  },
+  {
+    "en": "Drink",
+    "id": "Minuman"
+  },
+  {
+    "en": "Meal",
+    "id": "Santapan"
+  },
+  {
+    "en": "Breakfast",
+    "id": "Sarapan"
+  },
+  {
+    "en": "Lunch",
+    "id": "Makan siang"
+  },
+  {
+    "en": "Dinner",
+    "id": "Makan malam"
+  },
+  {
+    "en": "Snack",
+    "id": "Makanan ringan / Kudapan"
+  },
+  {
+    "en": "Dessert",
+    "id": "Makanan penutup"
+  },
+  {
+    "en": "Appetizer",
+    "id": "Makanan pembuka"
+  },
+  {
+    "en": "Main Course",
+    "id": "Hidangan utama"
+  },
+  {
+    "en": "Ingredient",
+    "id": "Bahan-bahan"
+  },
+  {
+    "en": "Recipe",
+    "id": "Resep"
+  },
+  {
+    "en": "Beef",
+    "id": "Daging sapi"
+  },
+  {
+    "en": "Chicken",
+    "id": "Daging ayam"
+  },
+  {
+    "en": "Pork",
+    "id": "Daging babi"
+  },
+  {
+    "en": "Lamb",
+    "id": "Daging domba"
+  },
+  {
+    "en": "Duck",
+    "id": "Daging bebek"
+  },
+  {
+    "en": "Sausage",
+    "id": "Sosis"
+  },
+  {
+    "en": "Bacon",
+    "id": "Daging babi asap"
+  },
+  {
+    "en": "Steak",
+    "id": "Steik / Bistik"
+  },
+  {
+    "en": "Fish",
+    "id": "Ikan"
+  },
+  {
+    "en": "Shrimp / Prawn",
+    "id": "Udang"
+  },
+  {
+    "en": "Crab",
+    "id": "Kepiting"
+  },
+  {
+    "en": "Lobster",
+    "id": "Lobster"
+  },
+  {
+    "en": "Squid",
+    "id": "Cumi-cumi"
+  },
+  {
+    "en": "Clam",
+    "id": "Kerang"
+  },
+  {
+    "en": "Oyster",
+    "id": "Tiram"
+  },
+  {
+    "en": "Salmon",
+    "id": "Salmon"
+  },
+  {
+    "en": "Tuna",
+    "id": "Tuna"
+  },
+  {
+    "en": "Seafood",
+    "id": "Makanan laut"
+  },
+  {
+    "en": "Apple",
+    "id": "Apel"
+  },
+  {
+    "en": "Banana",
+    "id": "Pisang"
+  },
+  {
+    "en": "Orange",
+    "id": "Jeruk"
+  },
+  {
+    "en": "Grape",
+    "id": "Anggur"
+  },
+  {
+    "en": "Strawberry",
+    "id": "Stroberi"
+  },
+  {
+    "en": "Mango",
+    "id": "Mangga"
+  },
+  {
+    "en": "Pineapple",
+    "id": "Nanas"
+  },
+  {
+    "en": "Watermelon",
+    "id": "Semangka"
+  },
+  {
+    "en": "Avocado",
+    "id": "Alpukat"
+  },
+  {
+    "en": "Lemon",
+    "id": "Lemon"
+  },
+  {
+    "en": "Vegetable",
+    "id": "Sayuran"
+  },
+  {
+    "en": "Carrot",
+    "id": "Wortel"
+  },
+  {
+    "en": "Potato",
+    "id": "Kentang"
+  },
+  {
+    "en": "Tomato",
+    "id": "Tomat"
+  },
+  {
+    "en": "Onion",
+    "id": "Bawang bombay"
+  },
+  {
+    "en": "Garlic",
+    "id": "Bawang putih"
+  },
+  {
+    "en": "Lettuce",
+    "id": "Selada"
+  },
+  {
+    "en": "Cucumber",
+    "id": "Timun"
+  },
+  {
+    "en": "Broccoli",
+    "id": "Brokoli"
+  },
+  {
+    "en": "Spinach",
+    "id": "Bayam"
+  },
+  {
+    "en": "Mushroom",
+    "id": "Jamur"
+  },
+  {
+    "en": "Cabbage",
+    "id": "Kubis"
+  },
+  {
+    "en": "Corn",
+    "id": "Jagung"
+  },
+  {
+    "en": "Chili",
+    "id": "Cabai"
+  },
+  {
+    "en": "Rice",
+    "id": "Nasi / Beras"
+  },
+  {
+    "en": "Bread",
+    "id": "Roti"
+  },
+  {
+    "en": "Pasta",
+    "id": "Pasta"
+  },
+  {
+    "en": "Noodle",
+    "id": "Mi"
+  },
+  {
+    "en": "Oats",
+    "id": "Oat"
+  },
+  {
+    "en": "Beans",
+    "id": "Kacang-kacangan"
+  },
+  {
+    "en": "Peanut",
+    "id": "Kacang tanah"
+  },
+  {
+    "en": "Almond",
+    "id": "Almon"
+  },
+  {
+    "en": "Milk",
+    "id": "Susu"
+  },
+  {
+    "en": "Cheese",
+    "id": "Keju"
+  },
+  {
+    "en": "Butter",
+    "id": "Mentega"
+  },
+  {
+    "en": "Yogurt",
+    "id": "Yogurt"
+  },
+  {
+    "en": "Egg",
+    "id": "Telur"
+  },
+  {
+    "en": "Tofu",
+    "id": "Tahu"
+  },
+  {
+    "en": "Tempeh",
+    "id": "Tempe"
+  },
+  {
+    "en": "Sugar",
+    "id": "Gula"
+  },
+  {
+    "en": "Salt",
+    "id": "Garam"
+  },
+  {
+    "en": "Pepper",
+    "id": "Lada / Merica"
+  },
+  {
+    "en": "Honey",
+    "id": "Madu"
+  },
+  {
+    "en": "Oil",
+    "id": "Minyak"
+  },
+  {
+    "en": "Vinegar",
+    "id": "Cuka"
+  },
+  {
+    "en": "Soy Sauce",
+    "id": "Kecap asin"
+  },
+  {
+    "en": "Sweet Soy Sauce",
+    "id": "Kecap manis"
+  },
+  {
+    "en": "Herb",
+    "id": "Rempah daun"
+  },
+  {
+    "en": "Spice",
+    "id": "Bumbu rempah"
+  },
+  {
+    "en": "Cake",
+    "id": "Kue"
+  },
+  {
+    "en": "Cookie / Biscuit",
+    "id": "Biskuit"
+  },
+  {
+    "en": "Ice Cream",
+    "id": "Es krim"
+  },
+  {
+    "en": "Chocolate",
+    "id": "Cokelat"
+  },
+  {
+    "en": "Candy",
+    "id": "Permen"
+  },
+  {
+    "en": "Pie",
+    "id": "Pai"
+  },
+  {
+    "en": "Water",
+    "id": "Air putih"
+  },
+  {
+    "en": "Coffee",
+    "id": "Kopi"
+  },
+  {
+    "en": "Tea",
+    "id": "Teh"
+  },
+  {
+    "en": "Juice",
+    "id": "Jus"
+  },
+  {
+    "en": "Soda",
+    "id": "Soda"
+  },
+  {
+    "en": "Smoothie",
+    "id": "Smoothie"
+  },
+  {
+    "en": "To cook",
+    "id": "Memasak"
+  },
+  {
+    "en": "To boil",
+    "id": "Merebus"
+  },
+  {
+    "en": "To fry",
+    "id": "Menggoreng"
+  },
+  {
+    "en": "To grill",
+    "id": "Memanggang (di atas bara api)"
+  },
+  {
+    "en": "To bake",
+    "id": "Memanggang (di dalam oven)"
+  },
+  {
+    "en": "To roast",
+    "id": "Memanggang (daging/sayur di oven)"
+  },
+  {
+    "en": "To steam",
+    "id": "Mengukus"
+  },
+  {
+    "en": "To slice",
+    "id": "Mengiris"
+  },
+  {
+    "en": "To chop",
+    "id": "Mencincang"
+  },
+  {
+    "en": "To dice",
+    "id": "Memotong dadu"
+  },
+  {
+    "en": "To mix",
+    "id": "Mencampur"
+  },
+  {
+    "en": "To stir",
+    "id": "Mengaduk"
+  },
+  {
+    "en": "To peel",
+    "id": "Mengupas"
+  },
+  {
+    "en": "To pour",
+    "id": "Menuang"
+  },
+  {
+    "en": "To taste",
+    "id": "Mencicipi"
+  },
+  {
+    "en": "Sweet",
+    "id": "Manis"
+  },
+  {
+    "en": "Sour",
+    "id": "Asam"
+  },
+  {
+    "en": "Salty",
+    "id": "Asin"
+  },
+  {
+    "en": "Bitter",
+    "id": "Pahit"
+  },
+  {
+    "en": "Spicy / Hot",
+    "id": "Pedas"
+  },
+  {
+    "en": "Delicious / Tasty",
+    "id": "Lezat / Enak"
+  },
+  {
+    "en": "Fresh",
+    "id": "Segar"
+  },
+  {
+    "en": "Rotten / Spoiled",
+    "id": "Busuk"
+  },
+  {
+    "en": "Crispy / Crunchy",
+    "id": "Renyah / Garing"
+  },
+  {
+    "en": "Creamy",
+    "id": "Lembut / Krimi"
+  },
+  {
+    "en": "Soft",
+    "id": "Lunak / Empuk"
+  },
+  {
+    "en": "Hard",
+    "id": "Keras"
+  },
+  {
+    "en": "Juicy",
+    "id": "Berair"
+  },
+  {
+    "en": "Raw",
+    "id": "Mentah"
+  },
+  {
+    "en": "Cooked",
+    "id": "Matang"
+  },
+  {
+    "en": "Well-done",
+    "id": "Matang sempurna (untuk steik)"
+  },
+  {
+    "en": "Medium-rare",
+    "id": "Setengah matang (untuk steik)"
+  },
+  {
+    "en": "Rare",
+    "id": "Kurang matang (untuk steik)"
+  },
+  {
+    "en": "Plate",
+    "id": "Piring"
+  },
+  {
+    "en": "Bowl",
+    "id": "Mangkuk"
+  },
+  {
+    "en": "Fork",
+    "id": "Garpu"
+  },
+  {
+    "en": "Spoon",
+    "id": "Sendok"
+  },
+  {
+    "en": "Knife",
+    "id": "Pisau"
+  },
+  {
+    "en": "Glass",
+    "id": "Gelas"
+  },
+  {
+    "en": "Cup",
+    "id": "Cangkir"
+  },
+  {
+    "en": "Pan",
+    "id": "Panci penggorengan"
+  },
+  {
+    "en": "Pot",
+    "id": "Panci rebusan"
+  },
+  {
+    "en": "Oven",
+    "id": "Oven"
+  },
+  {
+    "en": "Microwave",
+    "id": "Microwave"
+  },
+  {
+    "en": "Refrigerator / Fridge",
+    "id": "Kulkas"
+  },
+  {
+    "en": "Stove",
+    "id": "Kompor"
+  },
+  {
+    "en": "Blender",
+    "id": "Blender"
+  },
+  {
+    "en": "Can I see the menu, please?",
+    "id": "Boleh lihat menunya?"
+  },
+  {
+    "en": "I would like to order...",
+    "id": "Saya ingin memesan..."
+  },
+  {
+    "en": "What do you recommend?",
+    "id": "Apa yang Anda rekomendasikan?"
+  },
+  {
+    "en": "What's the special of the day?",
+    "id": "Apa menu spesial hari ini?"
+  },
+  {
+    "en": "I'm a vegetarian.",
+    "id": "Saya seorang vegetarian."
+  },
+  {
+    "en": "I have a food allergy.",
+    "id": "Saya punya alergi makanan."
+  },
+  {
+    "en": "Does this contain nuts?",
+    "id": "Apakah ini mengandung kacang?"
+  },
+  {
+    "en": "Can I have it without...?",
+    "id": "Bisa pesan tanpa...?"
+  },
+  {
+    "en": "Enjoy your meal!",
+    "id": "Selamat menikmati!"
+  },
+  {
+    "en": "Bon appétit!",
+    "id": "Selamat makan!"
+  },
+  {
+    "en": "Pass the salt, please.",
+    "id": "Tolong oper garamnya."
+  },
+  {
+    "en": "This is delicious!",
+    "id": "Ini enak sekali!"
+  },
+  {
+    "en": "I'm full.",
+    "id": "Saya kenyang."
+  },
+  {
+    "en": "Can I have the bill, please?",
+    "id": "Boleh minta tagihannya?"
+  },
+  {
+    "en": "Can I get this to go?",
+    "id": "Bisa dibungkus?"
+  },
+  {
+    "en": "Leftovers",
+    "id": "Makanan sisa"
+  },
+  {
+    "en": "To set the table",
+    "id": "Menyiapkan meja makan"
+  },
+  {
+    "en": "To clear the table",
+    "id": "Membereskan meja makan"
+  },
+  {
+    "en": "To do the dishes",
+    "id": "Mencuci piring"
+  },
+  {
+    "en": "Grocery shopping",
+    "id": "Belanja bahan makanan"
+  },
+  {
+    "en": "To be thirsty",
+    "id": "Merasa haus"
+  },
+  {
+    "en": "To be hungry",
+    "id": "Merasa lapar"
+  },
+  {
+    "en": "To have a sweet tooth",
+    "id": "Suka makanan manis"
+  },
+  {
+    "en": "To grab a bite",
+    "id": "Mencari makan (secara cepat/santai)"
+  },
+  {
+    "en": "Home-cooked meal",
+    "id": "Masakan rumah"
+  },
+  {
+    "en": "To dine in",
+    "id": "Makan di tempat"
+  },
+  {
+    "en": "To take out / To go",
+    "id": "Dibawa pulang"
+  },
+
+  {
+    "en": "Eggplant / Aubergine",
+    "id": "Terong"
+  },
+  {
+    "en": "Zucchini / Courgette",
+    "id": "Zukini"
+  },
+  {
+    "en": "Bell Pepper",
+    "id": "Paprika"
+  },
+  {
+    "en": "Celery",
+    "id": "Seledri"
+  },
+  {
+    "en": "Asparagus",
+    "id": "Asparagus"
+  },
+  {
+    "en": "Leek",
+    "id": "Bawang perai"
+  },
+  {
+    "en": "Scallion / Spring Onion",
+    "id": "Daun bawang"
+  },
+  {
+    "en": "Sweet Potato",
+    "id": "Ubi jalar"
+  },
+  {
+    "en": "Peach",
+    "id": "Persik"
+  },
+  {
+    "en": "Plum",
+    "id": "Plum"
+  },
+  {
+    "en": "Cherry",
+    "id": "Ceri"
+  },
+  {
+    "en": "Blueberry",
+    "id": "Bluberi"
+  },
+  {
+    "en": "Raspberry",
+    "id": "Rasberi"
+  },
+  {
+    "en": "Kiwi",
+    "id": "Kiwi"
+  },
+  {
+    "en": "Pomegranate",
+    "id": "Delima"
+  },
+  {
+    "en": "Coconut",
+    "id": "Kelapa"
+  },
+  {
+    "en": "Lime",
+    "id": "Jeruk nipis"
+  },
+  {
+    "en": "Rosemary",
+    "id": "Rosemary"
+  },
+  {
+    "en": "Thyme",
+    "id": "Timi"
+  },
+  {
+    "en": "Parsley",
+    "id": "Peterseli"
+  },
+  {
+    "en": "Cilantro / Coriander",
+    "id": "Daun ketumbar"
+  },
+  {
+    "en": "Mint",
+    "id": "Mint"
+  },
+  {
+    "en": "Nutmeg",
+    "id": "Pala"
+  },
+  {
+    "en": "Clove",
+    "id": "Cengkeh"
+  },
+  {
+    "en": "Cardamom",
+    "id": "Kapulaga"
+  },
+  {
+    "en": "Lemongrass",
+    "id": "Serai"
+  },
+  {
+    "en": "Turmeric",
+    "id": "Kunyit"
+  },
+  {
+    "en": "Ginger",
+    "id": "Jahe"
+  },
+  {
+    "en": "Wheat",
+    "id": "Gandum"
+  },
+  {
+    "en": "Flour",
+    "id": "Tepung terigu"
+  },
+  {
+    "en": "Yeast",
+    "id": "Ragi"
+  },
+  {
+    "en": "Dough",
+    "id": "Adonan (roti)"
+  },
+  {
+    "en": "Batter",
+    "id": "Adonan (cair)"
+  },
+  {
+    "en": "Olive Oil",
+    "id": "Minyak zaitun"
+  },
+  {
+    "en": "Balsamic Vinegar",
+    "id": "Cuka balsamik"
+  },
+  {
+    "en": "Mayonnaise",
+    "id": "Mayones"
+  },
+  {
+    "en": "Mustard",
+    "id": "Mostar"
+  },
+  {
+    "en": "Ketchup",
+    "id": "Saus tomat"
+  },
+  {
+    "en": "To marinate",
+    "id": "Memarinasi / Merendam bumbu"
+  },
+  {
+    "en": "To sauté",
+    "id": "Menumis"
+  },
+  {
+    "en": "To simmer",
+    "id": "Mendidih perlahan"
+  },
+  {
+    "en": "To poach",
+    "id": "Merebus (tanpa cangkang)"
+  },
+  {
+    "en": "To blanch",
+    "id": "Memblansir (merebus cepat)"
+  },
+  {
+    "en": "To garnish",
+    "id": "Menghias (makanan)"
+  },
+  {
+    "en": "To knead",
+    "id": "Menguleni"
+  },
+  {
+    "en": "To whisk",
+    "id": "Mengocok"
+  },
+  {
+    "en": "To grate",
+    "id": "Memarut"
+  },
+  {
+    "en": "To mince",
+    "id": "Mencincang halus"
+  },
+  {
+    "en": "To season",
+    "id": "Membumbui"
+  },
+  {
+    "en": "Ripe",
+    "id": "Matang (buah)"
+  },
+  {
+    "en": "Unripe",
+    "id": "Mentah / Belum matang"
+  },
+  {
+    "en": "Overripe",
+    "id": "Terlalu matang"
+  },
+  {
+    "en": "Organic",
+    "id": "Organik"
+  },
+  {
+    "en": "Processed Food",
+    "id": "Makanan olahan"
+  },
+  {
+    "en": "Whole Food",
+    "id": "Makanan utuh (tanpa proses)"
+  },
+  {
+    "en": "Gluten-free",
+    "id": "Bebas gluten"
+  },
+  {
+    "en": "Lactose intolerant",
+    "id": "Intoleran laktosa"
+  },
+  {
+    "en": "Undercooked",
+    "id": "Kurang matang"
+  },
+  {
+    "en": "Overcooked",
+    "id": "Terlalu matang / Kemasakan"
+  },
+  {
+    "en": "Burnt",
+    "id": "Gosong"
+  },
+  {
+    "en": "Savory",
+    "id": "Gurih"
+  },
+  {
+    "en": "Bland",
+    "id": "Hambar / Tawar"
+  },
+  {
+    "en": "Greasy / Oily",
+    "id": "Berminyak"
+  },
+  {
+    "en": "Tender",
+    "id": "Empuk (daging)"
+  },
+  {
+    "en": "Tough",
+    "id": "Alot (daging)"
+  },
+  {
+    "en": "Soup",
+    "id": "Sup"
+  },
+  {
+    "en": "Stew",
+    "id": "Sup kental / Semur"
+  },
+  {
+    "en": "Salad",
+    "id": "Salad"
+  },
+  {
+    "en": "Sandwich",
+    "id": "Roti lapis"
+  },
+  {
+    "en": "Curry",
+    "id": "Kari"
+  },
+  {
+    "en": "Pizza",
+    "id": "Pizza"
+  },
+  {
+    "en": "Sushi",
+    "id": "Sushi"
+  },
+  {
+    "en": "Barbecue (BBQ)",
+    "id": "Barbeku"
+  },
+  {
+    "en": "Broth / Stock",
+    "id": "Kaldu"
+  },
+  {
+    "en": "Sauce",
+    "id": "Saus"
+  },
+  {
+    "en": "Dressing",
+    "id": "Saus salad"
+  },
+  {
+    "en": "Espresso",
+    "id": "Espresso"
+  },
+  {
+    "en": "Cappuccino",
+    "id": "Cappuccino"
+  },
+  {
+    "en": "Latte",
+    "id": "Latte"
+  },
+  {
+    "en": "Herbal Tea",
+    "id": "Teh herbal"
+  },
+  {
+    "en": "Green Tea",
+    "id": "Teh hijau"
+  },
+  {
+    "en": "Black Tea",
+    "id": "Teh hitam"
+  },
+  {
+    "en": "Wine",
+    "id": "Anggur (minuman)"
+  },
+  {
+    "en": "Beer",
+    "id": "Bir"
+  },
+  {
+    "en": "Cocktail",
+    "id": "Koktail"
+  },
+  {
+    "en": "Mocktail",
+    "id": "Mocktail (koktail tanpa alkohol)"
+  },
+  {
+    "en": "Whisk",
+    "id": "Alat pengocok"
+  },
+  {
+    "en": "Spatula",
+    "id": "Spatula"
+  },
+  {
+    "en": "Ladle",
+    "id": "Sendok sayur"
+  },
+  {
+    "en": "Grater",
+    "id": "Parutan"
+  },
+  {
+    "en": "Colander",
+    "id": "Saringan (untuk pasta/sayur)"
+  },
+  {
+    "en": "Cutting Board",
+    "id": "Talenan"
+  },
+  {
+    "en": "Rolling Pin",
+    "id": "Penggiling adonan"
+  },
+  {
+    "en": "Measuring Cup",
+    "id": "Gelas ukur"
+  },
+  {
+    "en": "Baking Sheet",
+    "id": "Loyang panggang"
+  },
+  {
+    "en": "Reservation",
+    "id": "Reservasi"
+  },
+  {
+    "en": "Waiter / Waitress",
+    "id": "Pelayan"
+  },
+  {
+    "en": "Chef",
+    "id": "Koki"
+  },
+  {
+    "en": "Buffet",
+    "id": "Prasmanan"
+  },
+  {
+    "en": "À la carte",
+    "id": "Sesuai menu"
+  },
+  {
+    "en": "Set Menu",
+    "id": "Paket menu"
+  },
+  {
+    "en": "Side Dish",
+    "id": "Hidangan pendamping"
+  },
+  {
+    "en": "Condiments",
+    "id": "Bumbu pelengkap (saus, sambal)"
+  },
+  {
+    "en": "Tip / Gratuity",
+    "id": "Uang tip"
+  },
+  {
+    "en": "Portion",
+    "id": "Porsi"
+  },
+  {
+    "en": "Cuisine",
+    "id": "Masakan (khas daerah/negara)"
+  },
+  {
+    "en": "Fusion food",
+    "id": "Makanan fusi (campuran)"
+  },
+  {
+    "en": "Street food",
+    "id": "Jajanan / Makanan kaki lima"
+  },
+  {
+    "en": "Fine dining",
+    "id": "Makan mewah"
+  },
+  {
+    "en": "All you can eat",
+    "id": "Makan sepuasnya"
+  },
+  {
+    "en": "A balanced diet",
+    "id": "Diet seimbang"
+  },
+  {
+    "en": "Calories",
+    "id": "Kalori"
+  },
+  {
+    "en": "Nutrition",
+    "id": "Nutrisi / Gizi"
+  },
+  {
+    "en": "Protein",
+    "id": "Protein"
+  },
+  {
+    "en": "Carbohydrates",
+    "id": "Karbohidrat"
+  },
+  {
+    "en": "Fat",
+    "id": "Lemak"
+  },
+  {
+    "en": "Vitamins",
+    "id": "Vitamin"
+  },
+  {
+    "en": "Minerals",
+    "id": "Mineral"
+  },
+  {
+    "en": "Fiber",
+    "id": "Serat"
+  },
+  {
+    "en": "To be allergic to...",
+    "id": "Alergi terhadap..."
+  },
+  {
+    "en": "To be on a diet",
+    "id": "Sedang diet"
+  },
+  {
+    "en": "To lose weight",
+    "id": "Menurunkan berat badan"
+  },
+  {
+    "en": "To gain weight",
+    "id": "Menaikkan berat badan"
+  },
+  {
+    "en": "To have a craving for...",
+    "id": "Ngidam / Sangat ingin..."
+  },
+  {
+    "en": "My mouth is watering",
+    "id": "Saya jadi ngiler"
+  },
+  {
+    "en": "To eat like a bird",
+    "id": "Makan sangat sedikit"
+  },
+  {
+    "en": "To eat like a horse",
+    "id": "Makan sangat banyak"
+  },
+  {
+    "en": "A piece of cake",
+    "id": "Sesuatu yang sangat mudah"
+  },
+  {
+    "en": "(Not my) cup of tea",
+    "id": "(Bukan) selera saya"
+  },
+  {
+    "en": "Cool as a cucumber",
+    "id": "Sangat tenang"
+  },
+  {
+    "en": "In a nutshell",
+    "id": "Singkatnya"
+  },
+  {
+    "en": "Spill the beans",
+    "id": "Membocorkan rahasia"
+  },
+  {
+    "en": "Hot potato",
+    "id": "Isu yang sulit atau kontroversial"
+  },
+  {
+    "en": "Couch potato",
+    "id": "Orang yang malas"
+  }
+]

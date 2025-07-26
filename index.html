@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>English Master AI</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-container">
+      <!-- App Header -->
+      <header class="neon-header">
+        <h1><span class="gradient-text">English Master AI</span></h1>
+        <p class="subtitle">Enhance your English skills with AI assistance</p>
+      </header>
+
+      <!-- Quiz Type Selector -->
+      <nav class="quiz-selector">
+        <button id="translation-quiz-btn" class="holographic-button active">
+          <i class="fas fa-language"></i> Translation Quiz
+        </button>
+        <button id="verb-quiz-btn" class="holographic-button">
+          <i class="fas fa-list-ol"></i> Verb Forms Quiz
+        </button>
+        <button id="words-quiz-btn" class="holographic-button">
+          <i class="fas fa-book"></i> Words Quiz
+        </button>
+      </nav>
+
+      <!-- Main Content Area -->
+      <main class="main-content">
+        <!-- Translation Quiz Section -->
+        <section id="translation-quiz" class="quiz-section glass-card">
+          <div class="section-header">
+            <i class="fas fa-graduation-cap"></i>
+            <h2>Speaking Practice</h2>
+          </div>
+
+          <div class="category-selection">
+            <div class="category-options">
+              <div class="category-option active" data-category="all">
+                <i class="fas fa-globe"></i> All
+              </div>
+              <div class="category-option" data-category="travel">
+                <i class="fas fa-plane"></i> Travel
+              </div>
+              <div class="category-option" data-category="business">
+                <i class="fas fa-briefcase"></i> Business
+              </div>
+              <div class="category-option" data-category="food">
+                <i class="fas fa-utensils"></i> Food
+              </div>
+              <div class="category-option" data-category="daily">
+                <i class="fas fa-home"></i> Daily Life
+              </div>
+            </div>
+          </div>
+
+          <div class="language-selection">
+            <label for="translation-direction">Translation Direction:</label>
+            <select id="translation-direction" class="futuristic-select">
+              <option value="en-id">English to Indonesian</option>
+              <option value="id-en">Indonesian to English</option>
+            </select>
+          </div>
+
+          <div class="prompt-container">
+            <p class="prompt-label">Translate this sentence:</p>
+            <div class="prompt-text" id="prompt-text"></div>
+          </div>
+
+          <div class="input-area">
+            <input
+              type="text"
+              id="answer-input"
+              placeholder="Type Indonesian translation here..."
+              class="futuristic-input"
+            />
+            <button id="check-btn" class="holographic-button">
+              <i class="fas fa-check"></i> Check
+            </button>
+          </div>
+
+          <div class="speech-controls">
+            <button id="speak-quiz-btn" class="holographic-button pulse">
+              <i class="fas fa-microphone"></i> Speak Sentence
+            </button>
+            <button id="next-btn" class="holographic-button hidden">
+              <i class="fas fa-arrow-right"></i> Next
+            </button>
+          </div>
+
+          <div class="feedback-area">
+            <div class="feedback-text" id="feedback-text">
+              Waiting for your response...
+            </div>
+            <div class="result-container">
+              <p>We heard:</p>
+              <div class="result-text" id="result-text"></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Verb Quiz Section -->
+        <section id="verb-quiz" class="quiz-section glass-card hidden">
+          <div class="section-header">
+            <i class="fas fa-list-ol"></i>
+            <h2>Verb Forms Practice</h2>
+          </div>
+
+          <div class="prompt-container">
+            <p class="prompt-label" id="verb-prompt-label"></p>
+            <div class="verb-prompt" id="verb-prompt-text"></div>
+          </div>
+
+          <div class="verb-input-area">
+            <div class="verb-form">
+              <label>Base Form (V1):</label>
+              <input
+                type="text"
+                id="v1-input"
+                class="futuristic-input"
+                placeholder="Type V1"
+              />
+            </div>
+            <div class="verb-form">
+              <label>Past Simple (V2):</label>
+              <input
+                type="text"
+                id="v2-input"
+                class="futuristic-input"
+                placeholder="Type V2"
+              />
+            </div>
+            <div class="verb-form">
+              <label>Past Participle (V3):</label>
+              <input
+                type="text"
+                id="v3-input"
+                class="futuristic-input"
+                placeholder="Type V3"
+              />
+            </div>
+          </div>
+
+          <div class="sentence-input-area hidden">
+            <input
+              type="text"
+              id="sentence-input"
+              class="futuristic-input"
+              placeholder="Type the correct verb form here..."
+            />
+          </div>
+
+          <div class="verb-controls">
+            <button id="check-verb-btn" class="holographic-button">
+              <i class="fas fa-check"></i> Check Answers
+            </button>
+            <button id="next-verb-btn" class="holographic-button hidden">
+              <i class="fas fa-arrow-right"></i> Next Verb
+            </button>
+            <button id="reveal-verb-btn" class="holographic-button">
+              <i class="fas fa-lightbulb"></i> Reveal Answer
+            </button>
+          </div>
+
+          <div class="verb-feedback-area">
+            <div class="feedback-text" id="verb-feedback-text"></div>
+            <div class="verb-result" id="verb-result-text"></div>
+          </div>
+        </section>
+
+        <!-- Words Quiz Section -->
+        <section id="words-quiz" class="quiz-section glass-card hidden">
+          <div class="section-header">
+            <i class="fas fa-book"></i>
+            <h2>Words Practice</h2>
+          </div>
+
+          <div class="category-selection">
+            <label for="words-type-select">Practice:</label>
+            <select id="words-type-select" class="futuristic-select">
+              <option value="mixed">Mixed Words</option>
+              <option value="nouns">Nouns Only</option>
+              <option value="verbs">Verbs Only</option>
+              <option value="adjectives">Adjectives Only</option>
+            </select>
+
+            <label for="words-difficulty-select">Difficulty:</label>
+            <select id="words-difficulty-select" class="futuristic-select">
+              <option value="all">All Levels</option>
+              <option value="easy">Easy (Common)</option>
+              <option value="medium">Medium (Less Common)</option>
+            </select>
+
+            <label for="words-direction">Quiz Direction:</label>
+            <select id="words-direction" class="futuristic-select">
+              <option value="en-id">English to Indonesian</option>
+              <option value="id-en">Indonesian to English</option>
+              <option value="mixed">Mixed (Random)</option>
+            </select>
+          </div>
+
+          <div class="prompt-container">
+            <p class="prompt-label" id="words-prompt-label">
+              Translate this word:
+            </p>
+            <div class="prompt-text" id="words-prompt-text"></div>
+          </div>
+
+          <div class="input-area">
+            <input
+              type="text"
+              id="words-answer-input"
+              placeholder="Type translation here..."
+              class="futuristic-input"
+            />
+            <button id="check-words-btn" class="holographic-button">
+              <i class="fas fa-check"></i> Check
+            </button>
+          </div>
+
+          <div class="speech-controls">
+            <button id="speak-words-btn" class="holographic-button pulse">
+              <i class="fas fa-microphone"></i> Speak Word
+            </button>
+            <button id="next-words-btn" class="holographic-button hidden">
+              <i class="fas fa-arrow-right"></i> Next
+            </button>
+          </div>
+
+          <div class="feedback-area">
+            <div class="feedback-text" id="words-feedback-text">
+              Waiting for your response...
+            </div>
+            <div class="result-container">
+              <p>We heard:</p>
+              <div class="result-text" id="words-result-text"></div>
+            </div>
+            <div class="word-info" id="word-info-container"></div>
+          </div>
+        </section>
+
+        <!-- AI Chat Section -->
+        <section class="chat-section glass-card">
+          <div class="section-header">
+            <i class="fas fa-robot"></i>
+            <h2>AI Conversation</h2>
+          </div>
+
+          <div class="avatar-controls">
+            <div class="avatar-display" id="avatar-display">
+              <img
+                src="assets/images/avatars/ai1.png"
+                alt="AI Avatar"
+                id="current-avatar"
+              />
+            </div>
+            <div class="avatar-selector">
+              <button class="avatar-option" data-avatar="ai1.png">
+                <img src="assets/images/avatars/ai1.png" alt="Avatar 1" />
+              </button>
+              <button class="avatar-option" data-avatar="ai2.png">
+                <img src="assets/images/avatars/ai2.png" alt="Avatar 2" />
+              </button>
+              <button class="avatar-option" data-avatar="ai3.png">
+                <img src="assets/images/avatars/ai3.png" alt="Avatar 3" />
+              </button>
+              <button class="avatar-option" data-avatar="ai4.png">
+                <img src="assets/images/avatars/ai4.png" alt="Avatar 4" />
+              </button>
+            </div>
+          </div>
+
+          <div class="voice-controls">
+            <label for="voice-select">AI Voice:</label>
+            <select id="voice-select" class="futuristic-select">
+              <option value="">Loading voices...</option>
+            </select>
+          </div>
+
+          <div id="chat-window" class="chat-window">
+            <div class="chat-message bot-message">
+              <div class="message-avatar">
+                <img src="assets/images/avatars/ai1.png" alt="AI Avatar" />
+              </div>
+              <div class="message-content">
+                Hello! I'm your English practice assistant. You can start by
+                saying "hello" or asking me a question in English. I'll help
+                correct any mistakes and have a conversation with you.
+              </div>
+            </div>
+          </div>
+
+          <button id="talk-btn" class="holographic-button pulse">
+            <i class="fas fa-microphone-alt"></i> Hold to Talk
+          </button>
+        </section>
+
+        <!-- Progress Section -->
+        <section class="progress-section glass-card">
+          <div class="section-header">
+            <i class="fas fa-chart-line"></i>
+            <h2>Your Progress</h2>
+          </div>
+
+          <div class="progress-stats">
+            <div class="stat-item">
+              <div class="stat-value" id="total-questions">0</div>
+              <div class="stat-label">Questions Completed</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value" id="correct-answers">0</div>
+              <div class="stat-label">Correct Answers</div>
+            </div>
+            <div class="stat-item">
+              <div class="stat-value" id="accuracy-rate">0%</div>
+              <div class="stat-label">Accuracy Rate</div>
+            </div>
+          </div>
+
+          <div class="weak-areas">
+            <h3>Words to Improve</h3>
+            <div id="weak-words-list"></div>
+          </div>
+
+          <div class="reset-progress">
+            <button id="reset-progress-btn" class="holographic-button warning">
+              <i class="fas fa-trash-alt"></i> Reset Progress
+            </button>
+            <div id="reset-confirmation" class="hidden">
+              <p>Are you sure? This cannot be undone!</p>
+              <div class="confirmation-buttons">
+                <button
+                  id="confirm-reset-btn"
+                  class="holographic-button danger"
+                >
+                  <i class="fas fa-check"></i> Yes, Reset
+                </button>
+                <button id="cancel-reset-btn" class="holographic-button">
+                  <i class="fas fa-times"></i> Cancel
+                </button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <!-- Status Bar -->
+      <footer class="status-bar">
+        <div class="status-item">
+          <i class="fas fa-wifi"></i>
+          <span>Online</span>
+        </div>
+        <div class="status-item">
+          <i class="fas fa-battery-three-quarters"></i>
+          <span>85%</span>
+        </div>
+        <div class="status-item">
+          <i class="fas fa-user"></i>
+          <span>Learner</span>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

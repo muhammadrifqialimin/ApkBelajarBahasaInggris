@@ -1,0 +1,1169 @@
+[
+  {
+    "v1": "be",
+    "v2": "was/were",
+    "v3": "been"
+  },
+  {
+    "v1": "beat",
+    "v2": "beat",
+    "v3": "beaten"
+  },
+  {
+    "v1": "become",
+    "v2": "became",
+    "v3": "become"
+  },
+  {
+    "v1": "begin",
+    "v2": "began",
+    "v3": "begun"
+  },
+  {
+    "v1": "bend",
+    "v2": "bent",
+    "v3": "bent"
+  },
+  {
+    "v1": "bet",
+    "v2": "bet",
+    "v3": "bet"
+  },
+  {
+    "v1": "bite",
+    "v2": "bit",
+    "v3": "bitten"
+  },
+  {
+    "v1": "blow",
+    "v2": "blew",
+    "v3": "blown"
+  },
+  {
+    "v1": "break",
+    "v2": "broke",
+    "v3": "broken"
+  },
+  {
+    "v1": "bring",
+    "v2": "brought",
+    "v3": "brought"
+  },
+  {
+    "v1": "build",
+    "v2": "built",
+    "v3": "built"
+  },
+  {
+    "v1": "burn",
+    "v2": "burnt",
+    "v3": "burnt"
+  },
+  {
+    "v1": "buy",
+    "v2": "bought",
+    "v3": "bought"
+  },
+  {
+    "v1": "catch",
+    "v2": "caught",
+    "v3": "caught"
+  },
+  {
+    "v1": "choose",
+    "v2": "chose",
+    "v3": "chosen"
+  },
+  {
+    "v1": "come",
+    "v2": "came",
+    "v3": "come"
+  },
+  {
+    "v1": "cost",
+    "v2": "cost",
+    "v3": "cost"
+  },
+  {
+    "v1": "cut",
+    "v2": "cut",
+    "v3": "cut"
+  },
+  {
+    "v1": "dig",
+    "v2": "dug",
+    "v3": "dug"
+  },
+  {
+    "v1": "do",
+    "v2": "did",
+    "v3": "done"
+  },
+  {
+    "v1": "draw",
+    "v2": "drew",
+    "v3": "drawn"
+  },
+  {
+    "v1": "dream",
+    "v2": "dreamt",
+    "v3": "dreamt"
+  },
+  {
+    "v1": "drink",
+    "v2": "drank",
+    "v3": "drunk"
+  },
+  {
+    "v1": "drive",
+    "v2": "drove",
+    "v3": "driven"
+  },
+  {
+    "v1": "eat",
+    "v2": "ate",
+    "v3": "eaten"
+  },
+  {
+    "v1": "fall",
+    "v2": "fell",
+    "v3": "fallen"
+  },
+  {
+    "v1": "feed",
+    "v2": "fed",
+    "v3": "fed"
+  },
+  {
+    "v1": "feel",
+    "v2": "felt",
+    "v3": "felt"
+  },
+  {
+    "v1": "fight",
+    "v2": "fought",
+    "v3": "fought"
+  },
+  {
+    "v1": "find",
+    "v2": "found",
+    "v3": "found"
+  },
+  {
+    "v1": "fly",
+    "v2": "flew",
+    "v3": "flown"
+  },
+  {
+    "v1": "forget",
+    "v2": "forgot",
+    "v3": "forgotten"
+  },
+  {
+    "v1": "forgive",
+    "v2": "forgave",
+    "v3": "forgiven"
+  },
+  {
+    "v1": "freeze",
+    "v2": "froze",
+    "v3": "frozen"
+  },
+  {
+    "v1": "get",
+    "v2": "got",
+    "v3": "got"
+  },
+  {
+    "v1": "give",
+    "v2": "gave",
+    "v3": "given"
+  },
+  {
+    "v1": "go",
+    "v2": "went",
+    "v3": "gone"
+  },
+  {
+    "v1": "grow",
+    "v2": "grew",
+    "v3": "grown"
+  },
+  {
+    "v1": "hang",
+    "v2": "hung",
+    "v3": "hung"
+  },
+  {
+    "v1": "have",
+    "v2": "had",
+    "v3": "had"
+  },
+  {
+    "v1": "hear",
+    "v2": "heard",
+    "v3": "heard"
+  },
+  {
+    "v1": "hide",
+    "v2": "hid",
+    "v3": "hidden"
+  },
+  {
+    "v1": "hit",
+    "v2": "hit",
+    "v3": "hit"
+  },
+  {
+    "v1": "hold",
+    "v2": "held",
+    "v3": "held"
+  },
+  {
+    "v1": "hurt",
+    "v2": "hurt",
+    "v3": "hurt"
+  },
+  {
+    "v1": "keep",
+    "v2": "kept",
+    "v3": "kept"
+  },
+  {
+    "v1": "know",
+    "v2": "knew",
+    "v3": "known"
+  },
+  {
+    "v1": "lead",
+    "v2": "led",
+    "v3": "led"
+  },
+  {
+    "v1": "learn",
+    "v2": "learnt",
+    "v3": "learnt"
+  },
+  {
+    "v1": "leave",
+    "v2": "left",
+    "v3": "left"
+  },
+  {
+    "v1": "lend",
+    "v2": "lent",
+    "v3": "lent"
+  },
+  {
+    "v1": "let",
+    "v2": "let",
+    "v3": "let"
+  },
+  {
+    "v1": "lie",
+    "v2": "lay",
+    "v3": "lain"
+  },
+  {
+    "v1": "lose",
+    "v2": "lost",
+    "v3": "lost"
+  },
+  {
+    "v1": "make",
+    "v2": "made",
+    "v3": "made"
+  },
+  {
+    "v1": "mean",
+    "v2": "meant",
+    "v3": "meant"
+  },
+  {
+    "v1": "meet",
+    "v2": "met",
+    "v3": "met"
+  },
+  {
+    "v1": "pay",
+    "v2": "paid",
+    "v3": "paid"
+  },
+  {
+    "v1": "put",
+    "v2": "put",
+    "v3": "put"
+  },
+  {
+    "v1": "read",
+    "v2": "read",
+    "v3": "read"
+  },
+  {
+    "v1": "ride",
+    "v2": "rode",
+    "v3": "ridden"
+  },
+  {
+    "v1": "ring",
+    "v2": "rang",
+    "v3": "rung"
+  },
+  {
+    "v1": "rise",
+    "v2": "rose",
+    "v3": "risen"
+  },
+  {
+    "v1": "run",
+    "v2": "ran",
+    "v3": "run"
+  },
+  {
+    "v1": "say",
+    "v2": "said",
+    "v3": "said"
+  },
+  {
+    "v1": "see",
+    "v2": "saw",
+    "v3": "seen"
+  },
+  {
+    "v1": "sell",
+    "v2": "sold",
+    "v3": "sold"
+  },
+  {
+    "v1": "send",
+    "v2": "sent",
+    "v3": "sent"
+  },
+  {
+    "v1": "set",
+    "v2": "set",
+    "v3": "set"
+  },
+  {
+    "v1": "shake",
+    "v2": "shook",
+    "v3": "shaken"
+  },
+  {
+    "v1": "shine",
+    "v2": "shone",
+    "v3": "shone"
+  },
+  {
+    "v1": "shoot",
+    "v2": "shot",
+    "v3": "shot"
+  },
+  {
+    "v1": "show",
+    "v2": "showed",
+    "v3": "shown"
+  },
+  {
+    "v1": "shut",
+    "v2": "shut",
+    "v3": "shut"
+  },
+  {
+    "v1": "sing",
+    "v2": "sang",
+    "v3": "sung"
+  },
+  {
+    "v1": "sink",
+    "v2": "sank",
+    "v3": "sunk"
+  },
+  {
+    "v1": "sit",
+    "v2": "sat",
+    "v3": "sat"
+  },
+  {
+    "v1": "sleep",
+    "v2": "slept",
+    "v3": "slept"
+  },
+  {
+    "v1": "speak",
+    "v2": "spoke",
+    "v3": "spoken"
+  },
+  {
+    "v1": "spend",
+    "v2": "spent",
+    "v3": "spent"
+  },
+  {
+    "v1": "stand",
+    "v2": "stood",
+    "v3": "stood"
+  },
+  {
+    "v1": "steal",
+    "v2": "stole",
+    "v3": "stolen"
+  },
+  {
+    "v1": "swim",
+    "v2": "swam",
+    "v3": "swum"
+  },
+  {
+    "v1": "take",
+    "v2": "took",
+    "v3": "taken"
+  },
+  {
+    "v1": "teach",
+    "v2": "taught",
+    "v3": "taught"
+  },
+  {
+    "v1": "tear",
+    "v2": "tore",
+    "v3": "torn"
+  },
+  {
+    "v1": "tell",
+    "v2": "told",
+    "v3": "told"
+  },
+  {
+    "v1": "think",
+    "v2": "thought",
+    "v3": "thought"
+  },
+  {
+    "v1": "throw",
+    "v2": "threw",
+    "v3": "thrown"
+  },
+  {
+    "v1": "understand",
+    "v2": "understood",
+    "v3": "understood"
+  },
+  {
+    "v1": "wake",
+    "v2": "woke",
+    "v3": "woken"
+  },
+  {
+    "v1": "wear",
+    "v2": "wore",
+    "v3": "worn"
+  },
+  {
+    "v1": "win",
+    "v2": "won",
+    "v3": "won"
+  },
+  {
+    "v1": "write",
+    "v2": "wrote",
+    "v3": "written"
+  },
+
+  {
+    "v1": "arise",
+    "v2": "arose",
+    "v3": "arisen"
+  },
+  {
+    "v1": "awake",
+    "v2": "awoke",
+    "v3": "awoken"
+  },
+  {
+    "v1": "bear",
+    "v2": "bore",
+    "v3": "born"
+  },
+  {
+    "v1": "bind",
+    "v2": "bound",
+    "v3": "bound"
+  },
+  {
+    "v1": "bleed",
+    "v2": "bled",
+    "v3": "bled"
+  },
+  {
+    "v1": "breed",
+    "v2": "bred",
+    "v3": "bred"
+  },
+  {
+    "v1": "broadcast",
+    "v2": "broadcast",
+    "v3": "broadcast"
+  },
+  {
+    "v1": "cling",
+    "v2": "clung",
+    "v3": "clung"
+  },
+  {
+    "v1": "creep",
+    "v2": "crept",
+    "v3": "crept"
+  },
+  {
+    "v1": "deal",
+    "v2": "dealt",
+    "v3": "dealt"
+  },
+  {
+    "v1": "dwell",
+    "v2": "dwelt",
+    "v3": "dwelt"
+  },
+  {
+    "v1": "flee",
+    "v2": "fled",
+    "v3": "fled"
+  },
+  {
+    "v1": "fling",
+    "v2": "flung",
+    "v3": "flung"
+  },
+  {
+    "v1": "forbid",
+    "v2": "forbade",
+    "v3": "forbidden"
+  },
+  {
+    "v1": "forecast",
+    "v2": "forecast",
+    "v3": "forecast"
+  },
+  {
+    "v1": "foresee",
+    "v2": "foresaw",
+    "v3": "foreseen"
+  },
+  {
+    "v1": "foretell",
+    "v2": "foretold",
+    "v3": "foretold"
+  },
+  {
+    "v1": "forsake",
+    "v2": "forsook",
+    "v3": "forsaken"
+  },
+  {
+    "v1": "grind",
+    "v2": "ground",
+    "v3": "ground"
+  },
+  {
+    "v1": "interweave",
+    "v2": "interwove",
+    "v3": "interwoven"
+  },
+  {
+    "v1": "kneel",
+    "v2": "knelt",
+    "v3": "knelt"
+  },
+  {
+    "v1": "knit",
+    "v2": "knit",
+    "v3": "knit"
+  },
+  {
+    "v1": "lay",
+    "v2": "laid",
+    "v3": "laid"
+  },
+  {
+    "v1": "leap",
+    "v2": "leapt",
+    "v3": "leapt"
+  },
+  {
+    "v1": "light",
+    "v2": "lit",
+    "v3": "lit"
+  },
+  {
+    "v1": "mistake",
+    "v2": "mistook",
+    "v3": "mistaken"
+  },
+  {
+    "v1": "mow",
+    "v2": "mowed",
+    "v3": "mown"
+  },
+  {
+    "v1": "overcome",
+    "v2": "overcame",
+    "v3": "overcome"
+  },
+  {
+    "v1": "overdo",
+    "v2": "overdid",
+    "v3": "overdone"
+  },
+  {
+    "v1": "overhear",
+    "v2": "overheard",
+    "v3": "overheard"
+  },
+  {
+    "v1": "override",
+    "v2": "overrode",
+    "v3": "overridden"
+  },
+  {
+    "v1": "overrun",
+    "v2": "overran",
+    "v3": "overrun"
+  },
+  {
+    "v1": "oversee",
+    "v2": "oversaw",
+    "v3": "overseen"
+  },
+  {
+    "v1": "oversleep",
+    "v2": "overslept",
+    "v3": "overslept"
+  },
+  {
+    "v1": "overtake",
+    "v2": "overtook",
+    "v3": "overtaken"
+  },
+  {
+    "v1": "overthrow",
+    "v2": "overthrew",
+    "v3": "overthrown"
+  },
+  {
+    "v1": "partake",
+    "v2": "partook",
+    "v3": "partaken"
+  },
+  {
+    "v1": "prove",
+    "v2": "proved",
+    "v3": "proven"
+  },
+  {
+    "v1": "quit",
+    "v2": "quit",
+    "v3": "quit"
+  },
+  {
+    "v1": "rebuild",
+    "v2": "rebuilt",
+    "v3": "rebuilt"
+  },
+  {
+    "v1": "remake",
+    "v2": "remade",
+    "v3": "remade"
+  },
+  {
+    "v1": "repay",
+    "v2": "repaid",
+    "v3": "repaid"
+  },
+  {
+    "v1": "rewrite",
+    "v2": "rewrote",
+    "v3": "rewritten"
+  },
+  {
+    "v1": "rid",
+    "v2": "rid",
+    "v3": "rid"
+  },
+  {
+    "v1": "saw",
+    "v2": "sawed",
+    "v3": "sawn"
+  },
+  {
+    "v1": "seek",
+    "v2": "sought",
+    "v3": "sought"
+  },
+  {
+    "v1": "sew",
+    "v2": "sewed",
+    "v3": "sewn"
+  },
+  {
+    "v1": "shave",
+    "v2": "shaved",
+    "v3": "shaven"
+  },
+  {
+    "v1": "shear",
+    "v2": "sheared",
+    "v3": "shorn"
+  },
+  {
+    "v1": "shed",
+    "v2": "shed",
+    "v3": "shed"
+  },
+  {
+    "v1": "shrink",
+    "v2": "shrank",
+    "v3": "shrunk"
+  },
+  {
+    "v1": "slit",
+    "v2": "slit",
+    "v3": "slit"
+  },
+  {
+    "v1": "smell",
+    "v2": "smelt",
+    "v3": "smelt"
+  },
+  {
+    "v1": "sow",
+    "v2": "sowed",
+    "v3": "sown"
+  },
+  {
+    "v1": "speed",
+    "v2": "sped",
+    "v3": "sped"
+  },
+  {
+    "v1": "spell",
+    "v2": "spelt",
+    "v3": "spelt"
+  },
+  {
+    "v1": "spill",
+    "v2": "spilt",
+    "v3": "spilt"
+  },
+  {
+    "v1": "spin",
+    "v2": "spun",
+    "v3": "spun"
+  },
+  {
+    "v1": "spit",
+    "v2": "spat",
+    "v3": "spat"
+  },
+  {
+    "v1": "split",
+    "v2": "split",
+    "v3": "split"
+  },
+  {
+    "v1": "spoil",
+    "v2": "spoilt",
+    "v3": "spoilt"
+  },
+  {
+    "v1": "spread",
+    "v2": "spread",
+    "v3": "spread"
+  },
+  {
+    "v1": "spring",
+    "v2": "sprang",
+    "v3": "sprung"
+  },
+  {
+    "v1": "sting",
+    "v2": "stung",
+    "v3": "stung"
+  },
+  {
+    "v1": "stink",
+    "v2": "stank",
+    "v3": "stunk"
+  },
+  {
+    "v1": "strew",
+    "v2": "strewed",
+    "v3": "strewn"
+  },
+  {
+    "v1": "stride",
+    "v2": "strode",
+    "v3": "stridden"
+  },
+  {
+    "v1": "strike",
+    "v2": "struck",
+    "v3": "struck"
+  },
+  {
+    "v1": "strive",
+    "v2": "strove",
+    "v3": "striven"
+  },
+  {
+    "v1": "swear",
+    "v2": "swore",
+    "v3": "sworn"
+  },
+  {
+    "v1": "sweep",
+    "v2": "swept",
+    "v3": "swept"
+  },
+  {
+    "v1": "swell",
+    "v2": "swelled",
+    "v3": "swollen"
+  },
+  {
+    "v1": "swing",
+    "v2": "swung",
+    "v3": "swung"
+  },
+  {
+    "v1": "thrive",
+    "v2": "throve",
+    "v3": "thriven"
+  },
+  {
+    "v1": "thrust",
+    "v2": "thrust",
+    "v3": "thrust"
+  },
+  {
+    "v1": "tread",
+    "v2": "trod",
+    "v3": "trodden"
+  },
+  {
+    "v1": "undergo",
+    "v2": "underwent",
+    "v3": "undergone"
+  },
+  {
+    "v1": "undertake",
+    "v2": "undertook",
+    "v3": "undertaken"
+  },
+  {
+    "v1": "undo",
+    "v2": "undid",
+    "v3": "undone"
+  },
+  {
+    "v1": "uphold",
+    "v2": "upheld",
+    "v3": "upheld"
+  },
+  {
+    "v1": "upset",
+    "v2": "upset",
+    "v3": "upset"
+  },
+  {
+    "v1": "weave",
+    "v2": "wove",
+    "v3": "woven"
+  },
+  {
+    "v1": "weep",
+    "v2": "wept",
+    "v3": "wept"
+  },
+  {
+    "v1": "wet",
+    "v2": "wet",
+    "v3": "wet"
+  },
+  {
+    "v1": "wind",
+    "v2": "wound",
+    "v3": "wound"
+  },
+  {
+    "v1": "withdraw",
+    "v2": "withdrew",
+    "v3": "withdrawn"
+  },
+  {
+    "v1": "withhold",
+    "v2": "withheld",
+    "v3": "withheld"
+  },
+  {
+    "v1": "withstand",
+    "v2": "withstood",
+    "v3": "withstood"
+  },
+  {
+    "v1": "wring",
+    "v2": "wrung",
+    "v3": "wrung"
+  },
+
+  {
+    "v1": "abide",
+    "v2": "abode",
+    "v3": "abode"
+  },
+  {
+    "v1": "beseech",
+    "v2": "besought",
+    "v3": "besought"
+  },
+  {
+    "v1": "bid",
+    "v2": "bid",
+    "v3": "bid"
+  },
+  {
+    "v1": "burst",
+    "v2": "burst",
+    "v3": "burst"
+  },
+  {
+    "v1": "cast",
+    "v2": "cast",
+    "v3": "cast"
+  },
+  {
+    "v1": "cleave",
+    "v2": "clove",
+    "v3": "cloven"
+  },
+  {
+    "v1": "flee",
+    "v2": "fled",
+    "v3": "fled"
+  },
+  {
+    "v1": "hew",
+    "v2": "hewed",
+    "v3": "hewn"
+  },
+  {
+    "v1": "hoist",
+    "v2": "hoist",
+    "v3": "hoist"
+  },
+  {
+    "v1": "input",
+    "v2": "input",
+    "v3": "input"
+  },
+  {
+    "v1": "interlay",
+    "v2": "interlaid",
+    "v3": "interlaid"
+  },
+  {
+    "v1": "miscast",
+    "v2": "miscast",
+    "v3": "miscast"
+  },
+  {
+    "v1": "misdeal",
+    "v2": "misdealt",
+    "v3": "misdealt"
+  },
+  {
+    "v1": "mishear",
+    "v2": "misheard",
+    "v3": "misheard"
+  },
+  {
+    "v1": "mislay",
+    "v2": "mislaid",
+    "v3": "mislaid"
+  },
+  {
+    "v1": "mislead",
+    "v2": "misled",
+    "v3": "misled"
+  },
+  {
+    "v1": "misread",
+    "v2": "misread",
+    "v3": "misread"
+  },
+  {
+    "v1": "misspell",
+    "v2": "misspelt",
+    "v3": "misspelt"
+  },
+  {
+    "v1": "misspend",
+    "v2": "misspent",
+    "v3": "misspent"
+  },
+  {
+    "v1": "mistake",
+    "v2": "mistook",
+    "v3": "mistaken"
+  },
+  {
+    "v1": "misunderstand",
+    "v2": "misunderstood",
+    "v3": "misunderstood"
+  },
+  {
+    "v1": "outbid",
+    "v2": "outbid",
+    "v3": "outbid"
+  },
+  {
+    "v1": "outdo",
+    "v2": "outdid",
+    "v3": "outdone"
+  },
+  {
+    "v1": "outgrow",
+    "v2": "outgrew",
+    "v3": "outgrown"
+  },
+  {
+    "v1": "output",
+    "v2": "output",
+    "v3": "output"
+  },
+  {
+    "v1": "outrun",
+    "v2": "outran",
+    "v3": "outrun"
+  },
+  {
+    "v1": "outsell",
+    "v2": "outsold",
+    "v3": "outsold"
+  },
+  {
+    "v1": "plead",
+    "v2": "pled",
+    "v3": "pled"
+  },
+  {
+    "v1": "preset",
+    "v2": "preset",
+    "v3": "preset"
+  },
+  {
+    "v1": "proofread",
+    "v2": "proofread",
+    "v3": "proofread"
+  },
+  {
+    "v1": "relay",
+    "v2": "relaid",
+    "v3": "relaid"
+  },
+  {
+    "v1": "rend",
+    "v2": "rent",
+    "v3": "rent"
+  },
+  {
+    "v1": "reset",
+    "v2": "reset",
+    "v3": "reset"
+  },
+  {
+    "v1": "slay",
+    "v2": "slew",
+    "v3": "slain"
+  },
+  {
+    "v1": "slink",
+    "v2": "slunk",
+    "v3": "slunk"
+  },
+  {
+    "v1": "smite",
+    "v2": "smote",
+    "v3": "smitten"
+  },
+  {
+    "v1": "sneak",
+    "v2": "snuck",
+    "v3": "snuck"
+  },
+  {
+    "v1": "string",
+    "v2": "strung",
+    "v3": "strung"
+  },
+  {
+    "v1": "sublet",
+    "v2": "sublet",
+    "v3": "sublet"
+  },
+  {
+    "v1": "sunburn",
+    "v2": "sunburnt",
+    "v3": "sunburnt"
+  },
+  {
+    "v1": "telecast",
+    "v2": "telecast",
+    "v3": "telecast"
+  },
+  {
+    "v1": "underbid",
+    "v2": "underbid",
+    "v3": "underbid"
+  },
+  {
+    "v1": "undercut",
+    "v2": "undercut",
+    "v3": "undercut"
+  },
+  {
+    "v1": "underlie",
+    "v2": "underlay",
+    "v3": "underlain"
+  },
+  {
+    "v1": "underwrite",
+    "v2": "underwrote",
+    "v3": "underwritten"
+  },
+  {
+    "v1": "unwind",
+    "v2": "unwound",
+    "v3": "unwound"
+  },
+  {
+    "v1": "wed",
+    "v2": "wed",
+    "v3": "wed"
+  },
+  {
+    "v1": "shit",
+    "v2": "shat",
+    "v3": "shat"
+  },
+  {
+    "v1": "typeset",
+    "v2": "typeset",
+    "v3": "typeset"
+  },
+  {
+    "v1": "waylay",
+    "v2": "waylaid",
+    "v3": "waylaid"
+  }
+]
