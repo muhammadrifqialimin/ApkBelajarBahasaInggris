@@ -932,3 +932,20 @@ body {
   color: rgba(224, 224, 224, 0.8);
   font-size: 0.9rem;
 }
+
+.good-pronunciation {
+  animation: correct-flash 1s ease;
+  border-left: 4px solid var(--success-color);
+}
+
+@keyframes correct-flash {
+  0% {
+    background-color: rgba(76, 175, 80, 0.1);
+  }
+  50% {
+    background-color: rgba(76, 175, 80, 0.3);
+  }
+  100% {
+    background-color: rgba(76, 175, 80, 0.1);
+  }
+}

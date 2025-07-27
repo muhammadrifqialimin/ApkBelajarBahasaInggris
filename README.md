@@ -27,3 +27,35 @@ An interactive English learning application with:
 
 - Modern browser with Web Speech API support
 - Internet connection (for Gemini API)
+
+# Your Progress
+
+## 0
+
+Questions Completed
+
+## 0
+
+Correct Answers
+
+## 0%
+
+Accuracy Rate
+
+### Words to Improve
+
+No weak words detected yet!
+
+- [ ] Reset Progress
+
+<div hidden id="confirmation">
+  Are you sure? This cannot be undone!  
+  - Yes, Reset  
+  - Cancel  
+</div>
+
+<script>
+  document.querySelector('[type="checkbox"]').addEventListener('change', function() {
+    document.getElementById('confirmation').hidden = !this.checked;
+  });
+</script>

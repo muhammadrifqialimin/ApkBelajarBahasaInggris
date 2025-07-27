@@ -255,7 +255,11 @@ document.addEventListener("DOMContentLoaded", () => {
         feedbackTextElement.classList.remove("correct-animation");
       }, 1000);
     } else {
-      feedbackTextElement.innerHTML = `<i class="fas fa-times-circle"></i> Incorrect (${accuracy}% accuracy). The correct translation is: <strong>"${currentPair.id}"</strong>`;
+      const correctTranslation =
+        currentTranslationDirection === "en-id"
+          ? currentPair.id
+          : currentPair.en;
+      feedbackTextElement.innerHTML = `<i class="fas fa-times-circle"></i> Incorrect (${accuracy}% accuracy). The correct translation is: <strong>"${correctTranslation}"</strong>`;
       feedbackTextElement.style.color = "var(--error-color)";
     }
 
@@ -950,7 +954,9 @@ document.addEventListener("DOMContentLoaded", () => {
   nextButton.addEventListener("click", getNewQuestion);
   speakQuizButton.addEventListener("click", () => {
     activeFeature = "kuis";
-    recognition.lang = "en-US";
+    // Set recognition language based on translation direction
+    recognition.lang =
+      currentTranslationDirection === "en-id" ? "en-US" : "id-ID";
     recognition.start();
   });
   talkButton.addEventListener("mousedown", () => {
